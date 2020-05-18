@@ -3,6 +3,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 ## Twitter
 
+## Tweet ids
+
+* Covid-19 Twitter chatter dataset for scientific use - http://www.panacealab.org/covid19/
+
 ### Classification
 * Hate and abusive speech - https://github.com/ENCASEH2020/hatespeech-twitter
 * Hate speech ICWSM 2017 - https://github.com/t-davidson/hate-speech-and-offensive-language
