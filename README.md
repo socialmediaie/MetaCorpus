@@ -87,6 +87,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * SemEval 2016 Task 6: Detecting Stance in Tweets - http://alt.qcri.org/semeval2016/task6/
 * Political Parody (politican tweets and their parody tweets) - https://archive.org/details/parody_data_acl20
 * Italian Twitter Corpus of Hate Speech - https://github.com/msang/hate-speech-corpus
+* TRAC 2020 Multilingual Annotated Corpus of Misogyny and Aggression - https://sites.google.com/view/trac2/shared-task?authuser=0 - [drive](https://drive.google.com/open?id=1MRRWK1t6gO-VoS0TevNK5fFl_dtZHJ_A)
+* Ask.fm Cyberbullying Corpus - https://ritual.uh.edu/cyberbullying-corpus/
+* Detecting Nastiness in Social Media - http://ritual.uh.edu/wp-content/uploads/2017/08/ask.fm_dataset.zip
+
 
 
 ## Tagging
@@ -102,6 +106,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * English web text - https://github.com/UniversalDependencies/UD_English-EWT
 * Twitter treebank - https://github.com/Oneplus/Tweebank
 * Twitter UD dependency parsing for african american dialect as well as normal english - http://slanglab.cs.umass.edu/TwitterAAE/
+* Linguistic Code-Switching Evaluation Benchmark - https://ritual.uh.edu/lince/
 
 ### Question answering
 
