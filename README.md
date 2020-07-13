@@ -67,8 +67,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Online public shaming - https://zenodo.org/record/2587843#.XVrXzOhKh3g
 * Abusive behavior - https://zenodo.org/record/1216127#.XVriSehKh3g
 * RepLab 2013 (Entity-Oriented Summaries for Reputation Management) - http://nlp.uned.es/replab2013/ https://zenodo.org/record/2536801#.XVrin-hKh3g
-* GermEval office evaluation task - https://projects.fzai.h-da.de/iggsa/projekt/
-* OffenseEval - https://competitions.codalab.org/competitions/20011
+* GermEval offence evaluation task - https://projects.fzai.h-da.de/iggsa/projekt/	
+* GermEval-2018-Data - https://github.com/uds-lsv/GermEval-2018-Data * OffenseEval - https://competitions.codalab.org/competitions/20011
 * Frame Semantics Twitter (AAAI 2015) - https://bitbucket.org/lowlands/release/src/master/AAAI15/ (Paper: https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9349)
 * SemEval 2017 dataset [Gold](https://www.dropbox.com/s/byzr8yoda6bua1b/2017_English_final.zip) - [Task Download](http://alt.qcri.org/semeval2017/task4/index.php?id=download-the-full-training-data-for-semeval-2017-task-4)
 * MTSA - Multiannotated tweet sentiment dataset - https://www.aclweb.org/anthology/N18-1171/ from [Sentiment Analysis: It’s Complicated!](https://www.aclweb.org/anthology/N18-1171/)
@@ -91,6 +91,18 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Ask.fm Cyberbullying Corpus - https://ritual.uh.edu/cyberbullying-corpus/
 * Detecting Nastiness in Social Media - http://ritual.uh.edu/wp-content/uploads/2017/08/ask.fm_dataset.zip
 * Social Bias Frames (Twitter, Reddit, etc for multiple tags) - https://homes.cs.washington.edu/~msap/social-bias-frames/
+* User level abusive, hate, and bully classification - https://zenodo.org/record/1184178#.Xgu24UdKh3g
+* EveTAR test collection, Arabic Test Collection for multiple information retrieval tasks in Twitter - http://qufaculty.qu.edu.qa/telsayed/evetar/ . It supports:
+    - Event detection
+    - Ad-hoc search
+    - Timeline generation
+    - Real-time summarization
+* MeToo Dataset annotated for Text_Only_Informative,Image_Only_Informative,Directed_Hate,Generalized_Hate,Sarcasm,Allegation,Justification,Refutation,Support,Oppose - https://github.com/akash418/MeTooMMD	
+* Arabic HateSpeech annotated corpora - https://github.com/nuhaalbadi/Arabic_hatespeech	
+* Arabic Twitter Bots annotated user data - https://github.com/nuhaalbadi/ArabicBots	
+* Social Media Mining for Health Applications (Classification, Tagging, and Linking) - https://healthlanguageprocessing.org/smm4h/challenge/ [CodaLab](https://competitions.codalab.org/competitions/20798)	
+* Sentiment and Entity Corpus on Climate Change tweets - https://gate.ac.uk/projects/decarbonet/datasets.html	
+* Twitter Dialogue Corpus - https://github.com/Phylliida/Dialogue-Datasets
 
 
 
@@ -108,10 +120,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter treebank - https://github.com/Oneplus/Tweebank
 * Twitter UD dependency parsing for african american dialect as well as normal english - http://slanglab.cs.umass.edu/TwitterAAE/
 * Linguistic Code-Switching Evaluation Benchmark - https://ritual.uh.edu/lince/
-
-### Question answering
-
-* Tweet QA - https://tweetqa.github.io/
+* Code Switched NER - https://code-switching.github.io/2018/#shared-task-id	
 
 
 ### Rumour detection 
@@ -120,7 +129,21 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * PHEME rumour detection data - https://figshare.com/articles/PHEME_dataset_of_rumours_and_non-rumours/4010619
 * RumDetect combined with PHEME - https://github.com/majingCUHK/Rumor_GAN - combined data - https://www.dropbox.com/s/46r50ctrfa0ur1o/rumdect.zip?dl=0
 * RumorEval 2019 data - https://figshare.com/articles/RumourEval_2019_data/8845580
+		
+### Entity Linking	
+* 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
+* NEEL Microposts challenge - http://microposts2016.seas.upenn.edu/	
+* Yodie corpora: https://gate.ac.uk/applications/yodie.html	
+* https://github.com/juand-r/entity-recognition-datasets	
 
+
+### Treebank and parsing	
+* English web text - https://github.com/UniversalDependencies/UD_English-EWT	
+* Twitter treebank - https://github.com/Oneplus/Tweebank	
+* Twitter UD dependency parsing for african american dialect as well as normal english - http://slanglab.cs.umass.edu/TwitterAAE/	
+
+### Question answering	
+* Tweet QA - https://tweetqa.github.io/
 
 
 ## Facebook
@@ -143,6 +166,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Sarcasm detection - https://github.com/SenticNet/CASCADE
 * Self-annotated sarcasm corpora - http://nlp.cs.princeton.edu/SARC/2.0/ [Paper](https://www.aclweb.org/anthology/papers/L/L18/L18-1102/)
 * Conversational data - https://github.com/PolyAI-LDN/conversational-datasets
+
+### Amazon	
+* Irony and sarcasm in reviews - https://github.com/ef2020/SarcasmAmazonReviewsCorpus/wiki	
+
 
 ## About.me
 
@@ -174,3 +201,5 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * https://github.com/sebastianruder/NLP-progress
 * 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/
 * https://github.com/juand-r/entity-recognition-datasets
+* Social Media Keyphrase Generation - https://github.com/yuewang-cuhk/TAKG	
+* Hashtag generation corpus - https://github.com/yuewang-cuhk/HashtagGeneration
