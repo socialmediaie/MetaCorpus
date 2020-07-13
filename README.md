@@ -90,6 +90,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * TRAC 2020 Multilingual Annotated Corpus of Misogyny and Aggression - https://sites.google.com/view/trac2/shared-task?authuser=0 - [drive](https://drive.google.com/open?id=1MRRWK1t6gO-VoS0TevNK5fFl_dtZHJ_A)
 * Ask.fm Cyberbullying Corpus - https://ritual.uh.edu/cyberbullying-corpus/
 * Detecting Nastiness in Social Media - http://ritual.uh.edu/wp-content/uploads/2017/08/ask.fm_dataset.zip
+* Social Bias Frames (Twitter, Reddit, etc for multiple tags) - https://homes.cs.washington.edu/~msap/social-bias-frames/
 
 
 
