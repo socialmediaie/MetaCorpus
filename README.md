@@ -3,9 +3,6 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 ## Twitter
 
-## Tweet ids
-
-* Covid-19 Twitter chatter dataset for scientific use - http://www.panacealab.org/covid19/
 
 ### Classification
 * Hate and abusive speech - https://github.com/ENCASEH2020/hatespeech-twitter
@@ -38,8 +35,6 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * How to build a twitter archive - https://arxiv.org/abs/1611.08144
 * Internet Archive twitter stream - https://archive.org/details/twitterstream
 * Twitter datasets collected for specific events, e.g. US elections, has doi for each - https://tweetsets.library.gwu.edu/
-* Full trump tweet archive - https://github.com/bpb27/trump_tweet_data_archive
-* Many US politicians tweet archive - https://github.com/bpb27/political_twitter_archive
 * Tweets tagged with geolocations in geonames - https://github.com/geovista/GeoCorpora/blob/master/geocorpora_1544784178012.tsv
 * Tweets tagged pro versus anti vaccine - http://www.cs.jhu.edu/~mdredze/data/
 * Twitter Firstname, Lastname clusters - http://www.clsp.jhu.edu/~sbergsma/TwitterClusters/ (can be used for name location prediction)
@@ -106,7 +101,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 
 
-## Tagging
+### Tagging
 
 * Xlime - multi layered annotations in german, spanish and Italian - Sentiment, POS, NER - https://github.com/lrei/xlime_twitter_corpus
 * UD_Italian-PoSTWITA: Italian Tweet Universal Dependencies - https://github.com/UniversalDependencies/UD_Italian-PoSTWITA [Another version with more details](https://github.com/conllul/UL_Italian-PoSTWITA)
@@ -120,7 +115,26 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter treebank - https://github.com/Oneplus/Tweebank
 * Twitter UD dependency parsing for african american dialect as well as normal english - http://slanglab.cs.umass.edu/TwitterAAE/
 * Linguistic Code-Switching Evaluation Benchmark - https://ritual.uh.edu/lince/
-* Code Switched NER - https://code-switching.github.io/2018/#shared-task-id	
+* Code Switched NER - https://code-switching.github.io/2018/#shared-task-id
+
+#### NER datasets
+* Italian - http://neel-it.github.io/
+* German, Italian, Spanish - https://github.com/lrei/xlime_twitter_corpus
+* Hindi English code-mixed - https://github.com/SilentFlame/Named-Entity-Recognition
+* Densely annotated Wikipedia - https://github.com/klout/opendata/tree/master/wiki_annotation
+* Spanish English and Arabic Egyptian - https://code-switching.github.io/2018/#shared-task-id
+* Many code-switched - http://emnlp2014.org/workshops/CodeSwitch/call.html
+* Croatian - https://www.clarin.si/repository/xmlui/handle/11356/1241
+* Serbian - https://www.clarin.si/repository/xmlui/handle/11356/1240
+* Turkish - https://github.com/dkucuk/Tweet-Dataset-NER-SD
+* Named Entity Recognition on Turkish Tweets: http://optima.jrc.it/Resources/2014_JRC_Twitter_TR_NER-dataset.zip
+* French - http://cap2017.imag.fr/competition.html
+* Slovenian - https://www.clarin.si/repository/xmlui/handle/11356/1123
+* Telugu - https://github.com/anikethjr/NER_Telugu
+* German Italian and Spanish - https://github.com/lrei/xlime_twitter_corpus
+* Hindi - http://au-kbc.org/nlp/ESM-FIRE2015/
+
+
 
 
 ### Rumour detection 
@@ -144,6 +158,17 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 ### Question answering	
 * Tweet QA - https://tweetqa.github.io/
+
+
+### General
+* Summarizing Tweets - https://github.com/cocoxu/twittersummarization
+* Paraphrase identification - https://github.com/cocoxu/SemEval-PIT2015
+* URL base large scale paraphrase dataset - https://github.com/lanwuwei/Twitter-URL-Corpus
+
+### Unlabled topic specific data dumps
+* Covid-19 Twitter chatter dataset for scientific use - http://www.panacealab.org/covid19/
+* Full trump tweet archive - https://github.com/bpb27/trump_tweet_data_archive
+* Many US politicians tweet archive - https://github.com/bpb27/political_twitter_archive
 
 
 ## Facebook
