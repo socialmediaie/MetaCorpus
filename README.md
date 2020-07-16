@@ -169,7 +169,9 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 ### Unlabled topic specific data dumps
 * Covid-19 Twitter chatter dataset for scientific use - http://www.panacealab.org/covid19/
 * Full trump tweet archive - https://github.com/bpb27/trump_tweet_data_archive
-* Many US politicians tweet archive - https://github.com/bpb27/political_twitter_archive
+* Many US politicians tweet archive (periodically updated) - https://github.com/bpb27/political_twitter_archive
+* TweetsCOV19 is a semantically annotated corpus of Tweets about the COVID-19 pandemic (8.1M) - https://data.gesis.org/tweetscov19/
+* TweetsKB is a public RDF corpus of anonymized data for a large collection of annotated tweets (2B, periodically updated). - https://data.gesis.org/tweetskb/
 
 
 ## Facebook
