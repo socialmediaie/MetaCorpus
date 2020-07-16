@@ -98,7 +98,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Social Media Mining for Health Applications (Classification, Tagging, and Linking) - https://healthlanguageprocessing.org/smm4h/challenge/ [CodaLab](https://competitions.codalab.org/competitions/20798)	
 * Sentiment and Entity Corpus on Climate Change tweets - https://gate.ac.uk/projects/decarbonet/datasets.html	
 * Twitter Dialogue Corpus - https://github.com/Phylliida/Dialogue-Datasets
-
+* HAHA - Humor Analysis based on Human Annotation, a task to classify tweets in Spanish as humorous or not, and to determine how funny they are - https://www.fing.edu.uy/inco/grupos/pln/haha/index.html#data
 
 
 ### Tagging
