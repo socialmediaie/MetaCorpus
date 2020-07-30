@@ -165,6 +165,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Summarizing Tweets - https://github.com/cocoxu/twittersummarization
 * Paraphrase identification - https://github.com/cocoxu/SemEval-PIT2015
 * URL base large scale paraphrase dataset - https://github.com/lanwuwei/Twitter-URL-Corpus
+* Language identification code-switched - http://www.care4lang.seas.gwu.edu/cs2/call.html
 
 ### Unlabled topic specific data dumps
 * Covid-19 Twitter chatter dataset for scientific use - http://www.panacealab.org/covid19/
