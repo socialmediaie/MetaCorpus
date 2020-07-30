@@ -172,6 +172,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Monthly word embeddings for Twitter random sample (English, 2012-2018) - https://zenodo.org/record/3527983
 * Linked Open Data dataset that matches social media accounts on Twitter to the corresponding entities in multiple language chapters of DBpedia  - https://zenodo.org/record/1451797#.XyNYM_hKidY
 * Tweets in Space: Geo-tagged Tweet IDs 08/03/18 - 01/12/20 - https://zenodo.org/record/3608252#.XyNacfhKidY
+* Fake Health News detection, which includes news contents, news reviews, social engagements and user network - https://zenodo.org/record/3862989#.XyNas_hKidY
 
 
 ### Unlabled topic specific data dumps
