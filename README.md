@@ -174,6 +174,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 ### Unlabled topic specific data dumps
 * Covid-19 Twitter chatter dataset for scientific use - http://www.panacealab.org/covid19/ https://zenodo.org/record/3960911#.XyNW9vhKidY
+* Coronavirus Twitter Data: A collection of COVID-19 tweets with automated annotations - https://zenodo.org/record/3897727#.XyNY__hKidY
 * Full trump tweet archive - https://github.com/bpb27/trump_tweet_data_archive
 * Many US politicians tweet archive (periodically updated) - https://github.com/bpb27/political_twitter_archive
 * TweetsCOV19 is a semantically annotated corpus of Tweets about the COVID-19 pandemic (8.1M) - https://data.gesis.org/tweetscov19/
