@@ -103,6 +103,9 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Multiple Hate speech datasets - https://github.com/leondz/hatespeechdata
 * SSIX BREXIT Twitter Annotated Data Set (sentiment) - https://zenodo.org/record/1229649#.XyNZU_hKidY https://bitbucket.org/ssix-project/brexit-gold-standard/src/master/
 * HaterNet a system for detecting and analyzing hate speech in Twitter (Spanish) - https://zenodo.org/record/2592149#.XyNbTPhKidY
+* Webis Clickbait Corpus 2016 (Webis-Clickbait-16) (2992 tweets) - https://zenodo.org/record/3251557#.XyNcgvhKidY
+* Webis Clickbait Corpus 2017 (Webis-Clickbait-17) (38,517 tweets) - https://zenodo.org/record/3346491#.XyNd3_hKidY - [Clickbait Challenge](https://www.clickbait-challenge.org/)
+* RepLab Summarization Dataset (also topic labeling) - https://zenodo.org/record/2536801#.XyNdcvhKidY
 
 
 ### Stance detection
@@ -122,7 +125,6 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter treebank - https://github.com/Oneplus/Tweebank
 * Twitter UD dependency parsing for african american dialect as well as normal english - http://slanglab.cs.umass.edu/TwitterAAE/
 * Linguistic Code-Switching Evaluation Benchmark - https://ritual.uh.edu/lince/
-* Code Switched NER - https://code-switching.github.io/2018/#shared-task-id
 
 #### NER datasets
 * Italian - http://neel-it.github.io/
@@ -141,6 +143,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * German Italian and Spanish - https://github.com/lrei/xlime_twitter_corpus
 * Hindi - http://au-kbc.org/nlp/ESM-FIRE2015/
 * Temporally-Informed Analysis of Named Entity Recognition - https://zenodo.org/record/3899040#.XyNTV_hKidY
+* Code Switched NER - https://code-switching.github.io/2018/#shared-task-id
 
 
 
