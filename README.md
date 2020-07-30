@@ -188,6 +188,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * TweetsKB is a public RDF corpus of anonymized data for a large collection of annotated tweets (2B, periodically updated). - https://data.gesis.org/tweetskb/
 * Twitter historical dataset: March 21, 2006 (first tweet) to July 31, 2009 (3 years, 1.5 billion tweets) - https://zenodo.org/record/3833782#.XyNRIvhKidY
 * 307'061 verified Twitter accounts and their tweets from 2018-11-20 to 2018-11-28 - https://zenodo.org/record/2223647#.XyNTCvhKidY
+* GeoCoV19: A Dataset of 524 Million of Multilingual COVID-19 Tweets with Location Information - https://zenodo.org/record/3878599
 
 ## Facebook
 
