@@ -6,6 +6,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 ### Classification
 * Hate and abusive speech - https://github.com/ENCASEH2020/hatespeech-twitter
+* Aggregation identification - https://github.com/SilentFlame/AggressionDetection
 * Hate speech ICWSM 2017 - https://github.com/t-davidson/hate-speech-and-offensive-language
 * Moral Foundations Twitter Corpus - https://psyarxiv.com/w4f72 [\[JSON data\]](https://osf.io/k5n7y/)
 * Vulgarity prediction on tweets - https://github.com/ericholgate/vulgartwitter
