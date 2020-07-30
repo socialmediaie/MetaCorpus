@@ -105,6 +105,9 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * HaterNet a system for detecting and analyzing hate speech in Twitter (Spanish) - https://zenodo.org/record/2592149#.XyNbTPhKidY
 
 
+### Stance detection
+* Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
+
 ### Tagging
 
 * Xlime - multi layered annotations in german, spanish and Italian - Sentiment, POS, NER - https://github.com/lrei/xlime_twitter_corpus
