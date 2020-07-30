@@ -118,7 +118,6 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter UD dependency parsing for african american dialect as well as normal english - http://slanglab.cs.umass.edu/TwitterAAE/
 * Linguistic Code-Switching Evaluation Benchmark - https://ritual.uh.edu/lince/
 * Code Switched NER - https://code-switching.github.io/2018/#shared-task-id
-* Temporally-Informed Analysis of Named Entity Recognition - https://zenodo.org/record/3899040#.XyNTV_hKidY
 
 #### NER datasets
 * Italian - http://neel-it.github.io/
@@ -136,6 +135,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Telugu - https://github.com/anikethjr/NER_Telugu
 * German Italian and Spanish - https://github.com/lrei/xlime_twitter_corpus
 * Hindi - http://au-kbc.org/nlp/ESM-FIRE2015/
+* Temporally-Informed Analysis of Named Entity Recognition - https://zenodo.org/record/3899040#.XyNTV_hKidY
 
 
 
