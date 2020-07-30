@@ -102,6 +102,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * HAHA - Humor Analysis based on Human Annotation, a task to classify tweets in Spanish as humorous or not, and to determine how funny they are - https://www.fing.edu.uy/inco/grupos/pln/haha/index.html#data
 * Multiple Hate speech datasets - https://github.com/leondz/hatespeechdata
 * SSIX BREXIT Twitter Annotated Data Set (sentiment) - https://zenodo.org/record/1229649#.XyNZU_hKidY https://bitbucket.org/ssix-project/brexit-gold-standard/src/master/
+* HaterNet a system for detecting and analyzing hate speech in Twitter (Spanish) - https://zenodo.org/record/2592149#.XyNbTPhKidY
 
 
 ### Tagging
