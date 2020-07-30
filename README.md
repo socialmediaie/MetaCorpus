@@ -171,6 +171,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Language identification code-switched - http://www.care4lang.seas.gwu.edu/cs2/call.html
 * Monthly word embeddings for Twitter random sample (English, 2012-2018) - https://zenodo.org/record/3527983
 * Linked Open Data dataset that matches social media accounts on Twitter to the corresponding entities in multiple language chapters of DBpedia  - https://zenodo.org/record/1451797#.XyNYM_hKidY
+* Tweets in Space: Geo-tagged Tweet IDs 08/03/18 - 01/12/20 - https://zenodo.org/record/3608252#.XyNacfhKidY
 
 
 ### Unlabled topic specific data dumps
