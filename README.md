@@ -168,6 +168,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * URL base large scale paraphrase dataset - https://github.com/lanwuwei/Twitter-URL-Corpus
 * Language identification code-switched - http://www.care4lang.seas.gwu.edu/cs2/call.html
 * Monthly word embeddings for Twitter random sample (English, 2012-2018) - https://zenodo.org/record/3527983
+* 307'061 verified Twitter accounts and their tweets from 2018-11-20 to 2018-11-28 - https://zenodo.org/record/2223647#.XyNTCvhKidY
 
 ### Unlabled topic specific data dumps
 * Covid-19 Twitter chatter dataset for scientific use - http://www.panacealab.org/covid19/
