@@ -174,6 +174,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Many US politicians tweet archive (periodically updated) - https://github.com/bpb27/political_twitter_archive
 * TweetsCOV19 is a semantically annotated corpus of Tweets about the COVID-19 pandemic (8.1M) - https://data.gesis.org/tweetscov19/
 * TweetsKB is a public RDF corpus of anonymized data for a large collection of annotated tweets (2B, periodically updated). - https://data.gesis.org/tweetskb/
+* Twitter historical dataset: March 21, 2006 (first tweet) to July 31, 2009 (3 years, 1.5 billion tweets) - https://zenodo.org/record/3833782#.XyNRIvhKidY
 
 
 ## Facebook
