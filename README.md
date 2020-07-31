@@ -181,6 +181,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Linked Open Data dataset that matches social media accounts on Twitter to the corresponding entities in multiple language chapters of DBpedia  - https://zenodo.org/record/1451797#.XyNYM_hKidY
 * Tweets in Space: Geo-tagged Tweet IDs 08/03/18 - 01/12/20 - https://zenodo.org/record/3608252#.XyNacfhKidY
 * Fake Health News detection, which includes news contents, news reviews, social engagements and user network - https://zenodo.org/record/3862989#.XyNas_hKidY
+* Tweets with reverse geo-tagging - https://zenodo.org/record/11661#.XyNfv_hKidY
+* ULSN: A dataset for User Profile Linkage (From Twitter to Quora) - https://zenodo.org/record/3837711#.XyNgd_hKidY
 
 
 ### Unlabled topic specific data dumps
