@@ -106,6 +106,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Webis Clickbait Corpus 2016 (Webis-Clickbait-16) (2992 tweets) - https://zenodo.org/record/3251557#.XyNcgvhKidY
 * Webis Clickbait Corpus 2017 (Webis-Clickbait-17) (38,517 tweets) - https://zenodo.org/record/3346491#.XyNd3_hKidY - [Clickbait Challenge](https://www.clickbait-challenge.org/)
 * RepLab Summarization Dataset (also topic labeling) - https://zenodo.org/record/2536801#.XyNdcvhKidY
+* FIRE 2018 IRMiDis track dataset: Fact-checkable tweets posted during disasters - https://zenodo.org/record/3336477#.XyNiIPhKidY
 
 
 ### Stance detection
@@ -177,12 +178,17 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Paraphrase identification - https://github.com/cocoxu/SemEval-PIT2015
 * URL base large scale paraphrase dataset - https://github.com/lanwuwei/Twitter-URL-Corpus
 * Language identification code-switched - http://www.care4lang.seas.gwu.edu/cs2/call.html
-* Monthly word embeddings for Twitter random sample (English, 2012-2018) - https://zenodo.org/record/3527983
 * Linked Open Data dataset that matches social media accounts on Twitter to the corresponding entities in multiple language chapters of DBpedia  - https://zenodo.org/record/1451797#.XyNYM_hKidY
 * Tweets in Space: Geo-tagged Tweet IDs 08/03/18 - 01/12/20 - https://zenodo.org/record/3608252#.XyNacfhKidY
 * Fake Health News detection, which includes news contents, news reviews, social engagements and user network - https://zenodo.org/record/3862989#.XyNas_hKidY
 * Tweets with reverse geo-tagging - https://zenodo.org/record/11661#.XyNfv_hKidY
 * ULSN: A dataset for User Profile Linkage (From Twitter to Quora) - https://zenodo.org/record/3837711#.XyNgd_hKidY
+
+### Embeddings
+
+* Word Embedding Data Sets Learned from 400M Tweets and General Data - https://zenodo.org/record/581402#.XyNhUPhKidY
+* Monthly word embeddings for Twitter random sample (English, 2012-2018) - https://zenodo.org/record/3527983
+
 
 
 ### Unlabled topic specific data dumps
