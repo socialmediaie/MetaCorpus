@@ -154,6 +154,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * PHEME rumour detection data - https://figshare.com/articles/PHEME_dataset_of_rumours_and_non-rumours/4010619
 * RumDetect combined with PHEME - https://github.com/majingCUHK/Rumor_GAN - combined data - https://www.dropbox.com/s/46r50ctrfa0ur1o/rumdect.zip?dl=0
 * RumorEval 2019 data - https://figshare.com/articles/RumourEval_2019_data/8845580
+* Augmented dataset of rumours and non-rumours for rumour detection - https://zenodo.org/record/3269768#.XyNe3fhKidY
 		
 ### Entity Linking	
 * 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
