@@ -108,6 +108,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Webis Clickbait Corpus 2017 (Webis-Clickbait-17) (38,517 tweets) - https://zenodo.org/record/3346491#.XyNd3_hKidY - [Clickbait Challenge](https://www.clickbait-challenge.org/)
 * RepLab Summarization Dataset (also topic labeling) - https://zenodo.org/record/2536801#.XyNdcvhKidY
 * FIRE 2018 IRMiDis track dataset: Fact-checkable tweets posted during disasters - https://zenodo.org/record/3336477#.XyNiIPhKidY
+* The UMass Global English on Twitter Dataset - https://www.kaggle.com/rtatman/the-umass-global-english-on-twitter-dataset (This dataset contains tweets from a variety of languages, tagged for whether they are in English or not, whether they contain code-switching, whether they includes names from a different language and whether they were generated automatically.)
 
 
 ### Stance detection
