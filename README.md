@@ -178,6 +178,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 ### General
 * Summarizing Tweets - https://github.com/cocoxu/twittersummarization
+* Parallel text extracted from twitter and Weibo - http://www.cs.cmu.edu/~lingwang/microtopia/#twitter
 * Paraphrase identification - https://github.com/cocoxu/SemEval-PIT2015
 * URL base large scale paraphrase dataset - https://github.com/lanwuwei/Twitter-URL-Corpus
 * Language identification code-switched - http://www.care4lang.seas.gwu.edu/cs2/call.html
