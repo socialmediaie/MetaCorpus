@@ -109,7 +109,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * RepLab Summarization Dataset (also topic labeling) - https://zenodo.org/record/2536801#.XyNdcvhKidY
 * FIRE 2018 IRMiDis track dataset: Fact-checkable tweets posted during disasters - https://zenodo.org/record/3336477#.XyNiIPhKidY
 * Political leaning of Twitter Users based on list membership (includes 3 months tweets) - https://github.com/klout/opendata/blob/master/political_leaning/README.md
-
+* The UMass Global English on Twitter Dataset - https://www.kaggle.com/rtatman/the-umass-global-english-on-twitter-dataset (This dataset contains tweets from a variety of languages, tagged for whether they are in English or not, whether they contain code-switching, whether they includes names from a different language and whether they were generated automatically.)
+* Twitter Sentence Specificity - https://github.com/wjko2/Domain-Agnostic-Sentence-Specificity-Prediction/tree/master/dataset/data
 
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
@@ -148,7 +149,13 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Temporally-Informed Analysis of Named Entity Recognition - https://zenodo.org/record/3899040#.XyNTV_hKidY
 * Code Switched NER - https://code-switching.github.io/2018/#shared-task-id
 
+### Machine Translation
+* TwitterMT - http://komunitatea.elhuyar.eus/tweetmt/resources/#Downloads
+* Parallel text extracted from twitter and Weibo - http://www.cs.cmu.edu/~lingwang/microtopia/#twitter
 
+### Paraphrase identification
+* Paraphrase identification - https://github.com/cocoxu/SemEval-PIT2015
+* URL base large scale paraphrase dataset - https://github.com/lanwuwei/Twitter-URL-Corpus
 
 
 ### Rumour detection 
