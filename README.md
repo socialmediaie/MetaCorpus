@@ -181,6 +181,11 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 ### Question answering	
 * Tweet QA - https://tweetqa.github.io/
 
+### Multimodal
+
+* Hate speech images - https://github.com/imatge-upc/hate-speech-detection
+* Hate Speech Detection in Multimodal Publications - https://gombru.github.io/2019/10/09/MMHS/
+
 
 ### General
 * Summarizing Tweets - https://github.com/cocoxu/twittersummarization
