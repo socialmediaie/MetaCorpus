@@ -199,6 +199,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Tweets with reverse geo-tagging - https://zenodo.org/record/11661#.XyNfv_hKidY
 * ULSN: A dataset for User Profile Linkage (From Twitter to Quora) - https://zenodo.org/record/3837711#.XyNgd_hKidY
 * Multiple corpus for Twitter LangId, NER, etc - https://github.com/dimazest/2018-langid/tree/master/supplement
+* Celebrity Profiling - Celebrity Tweet Profiles liked with demographic attributes and Wikidata - https://github.com/webis-de/ACL-19/tree/master/celebrity-profiling
 
 ### Embeddings
 
