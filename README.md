@@ -112,6 +112,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * The UMass Global English on Twitter Dataset - https://www.kaggle.com/rtatman/the-umass-global-english-on-twitter-dataset (This dataset contains tweets from a variety of languages, tagged for whether they are in English or not, whether they contain code-switching, whether they includes names from a different language and whether they were generated automatically.)
 * Twitter Sentence Specificity - https://github.com/wjko2/Domain-Agnostic-Sentence-Specificity-Prediction/tree/master/dataset/data
 * Sarcasm Detection (Shared Task 2nd FigLang Workshop at ACL 2020) - https://github.com/EducationalTestingService/sarcasm
+* Webis Clickbait Corpus 2017 - https://webis.de/data/webis-clickbait-17
 
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
@@ -166,6 +167,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * RumDetect combined with PHEME - https://github.com/majingCUHK/Rumor_GAN - combined data - https://www.dropbox.com/s/46r50ctrfa0ur1o/rumdect.zip?dl=0
 * RumorEval 2019 data - https://figshare.com/articles/RumourEval_2019_data/8845580
 * Augmented dataset of rumours and non-rumours for rumour detection - https://zenodo.org/record/3269768#.XyNe3fhKidY
+* Tweet Check-Worthiness - https://sites.google.com/view/clef2020-checkthat/tasks/tasks-1-5-check-worthiness?authuser=0
 		
 ### Entity Linking	
 * 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
@@ -239,6 +241,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Sarcasm detection - https://github.com/SenticNet/CASCADE
 * Self-annotated sarcasm corpora - http://nlp.cs.princeton.edu/SARC/2.0/ [Paper](https://www.aclweb.org/anthology/papers/L/L18/L18-1102/)
 * Conversational data - https://github.com/PolyAI-LDN/conversational-datasets
+
+### Summarization
+
+* TL;DR corpus - https://zenodo.org/record/1168855#.X1WcDGdKidY
 
 ### Amazon	
 * Irony and sarcasm in reviews - https://github.com/ef2020/SarcasmAmazonReviewsCorpus/wiki	
