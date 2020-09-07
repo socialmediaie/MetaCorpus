@@ -168,6 +168,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * RumorEval 2019 data - https://figshare.com/articles/RumourEval_2019_data/8845580
 * Augmented dataset of rumours and non-rumours for rumour detection - https://zenodo.org/record/3269768#.XyNe3fhKidY
 * Tweet Check-Worthiness - https://sites.google.com/view/clef2020-checkthat/tasks/tasks-1-5-check-worthiness?authuser=0
+* Profiling fake news spreaders on Twitter - https://pan.webis.de/clef20/pan20-web/author-profiling.html
 		
 ### Entity Linking	
 * 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
