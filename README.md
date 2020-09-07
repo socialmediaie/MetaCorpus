@@ -111,6 +111,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Political leaning of Twitter Users based on list membership (includes 3 months tweets) - https://github.com/klout/opendata/blob/master/political_leaning/README.md
 * The UMass Global English on Twitter Dataset - https://www.kaggle.com/rtatman/the-umass-global-english-on-twitter-dataset (This dataset contains tweets from a variety of languages, tagged for whether they are in English or not, whether they contain code-switching, whether they includes names from a different language and whether they were generated automatically.)
 * Twitter Sentence Specificity - https://github.com/wjko2/Domain-Agnostic-Sentence-Specificity-Prediction/tree/master/dataset/data
+* Sarcasm Detection (Shared Task 2nd FigLang Workshop at ACL 2020) - https://github.com/EducationalTestingService/sarcasm
 
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
@@ -259,6 +260,19 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 ### Popularity prediction
 * Social Media Prediction Challenge - http://smp-challenge.com/
+
+
+# Conversations
+
+* Multiple conversation datasets - https://convokit.cornell.edu/
+* Yahoo News Annotated Comments Corpus  - https://github.com/cnap/ynacc
+
+# News Comments
+
+* A Dataset of Journalists' Interactions with Their Readership: When Should Article Authors Reply to Reader Comments?
+ - https://github.com/julian-risch/CIKM2020/
+* User Engagement in Online Discussions - https://github.com/julian-risch/ICWSM2020
+* Top Comment or Flop Comment? Predicting and Explaining User Engagement in Online News Discussions - https://github.com/julian-risch/ICWSM2020
 
 
 ## General
