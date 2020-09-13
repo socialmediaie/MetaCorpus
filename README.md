@@ -131,6 +131,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter treebank - https://github.com/Oneplus/Tweebank
 * Twitter UD dependency parsing for african american dialect as well as normal english - http://slanglab.cs.umass.edu/TwitterAAE/
 * Linguistic Code-Switching Evaluation Benchmark - https://ritual.uh.edu/lince/
+* Aspect Term-Polarity Co-Extraction - https://github.com/ArrowLuo/DOER
 
 #### NER datasets
 * Italian - http://neel-it.github.io/
