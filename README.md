@@ -207,6 +207,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Multiple corpus for Twitter LangId, NER, etc - https://github.com/dimazest/2018-langid/tree/master/supplement
 * Celebrity Profiling - Celebrity Tweet Profiles liked with demographic attributes and Wikidata - https://github.com/webis-de/ACL-19/tree/master/celebrity-profiling
 * Topical Attention Election and Brexit - https://github.com/somethingx01/TopicalAttentionElection https://github.com/somethingx01/TopicalAttentionBrexit
+* Hashtag segmentation - https://github.com/mounicam/hashtag_master
 
 ### Embeddings
 
