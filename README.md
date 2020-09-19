@@ -38,6 +38,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Internet Archive twitter stream - https://archive.org/details/twitterstream
 * Twitter datasets collected for specific events, e.g. US elections, has doi for each - https://tweetsets.library.gwu.edu/
 * Tweets tagged with geolocations in geonames - https://github.com/geovista/GeoCorpora/blob/master/geocorpora_1544784178012.tsv
+* Tweet geolocation datasets - https://github.com/afshinrahimi/geographconv
 * Tweets tagged pro versus anti vaccine - http://www.cs.jhu.edu/~mdredze/data/
 * Twitter Firstname, Lastname clusters - http://www.clsp.jhu.edu/~sbergsma/TwitterClusters/ (can be used for name location prediction)
 * Twitter user level datasets for political ideologies - http://www.preotiuc.ro/resources.html
