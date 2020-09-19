@@ -116,6 +116,9 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Webis Clickbait Corpus 2017 - https://webis.de/data/webis-clickbait-17
 * Entity Linking in Tweets for Book and Movie domain - https://github.com/sujanucsc/IEL-Twitter
 * Tweet Wikipedia Entity Prediction - https://github.com/lunafeng/ELTDS
+* Twitter data annotated with topic labels - http://www.site.uottawa.ca/~diana/resources/
+* Twitter data with annotated location expressions at city, state/province, and country level - http://www.site.uottawa.ca/~diana/resources/
+* Twitter data annotated with stance toward multipe targets - http://www.site.uottawa.ca/~diana/resources/
 
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
