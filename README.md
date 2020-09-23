@@ -182,7 +182,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
 * NEEL Microposts challenge - http://microposts2016.seas.upenn.edu/	
 * Yodie corpora: https://gate.ac.uk/applications/yodie.html	
-* https://github.com/juand-r/entity-recognition-datasets	
+* https://github.com/juand-r/entity-recognition-datasets
+* Sense disambiguation/Entity Linking - https://github.com/lunafeng/ELTDS
 
 
 ### Treebank and parsing	
