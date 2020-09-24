@@ -120,6 +120,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter data with annotated location expressions at city, state/province, and country level - http://www.site.uottawa.ca/~diana/resources/
 * Twitter data annotated with stance toward multipe targets - http://www.site.uottawa.ca/~diana/resources/
 * Language specificity in Tweets - https://github.com/cs329yangzhong/specificityTwitter
+* Geolocation prediction from text - https://archive.org/details/twitter_cikm_2010
 
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
