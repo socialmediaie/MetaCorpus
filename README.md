@@ -159,6 +159,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Hindi - http://au-kbc.org/nlp/ESM-FIRE2015/
 * Temporally-Informed Analysis of Named Entity Recognition - https://zenodo.org/record/3899040#.XyNTV_hKidY
 * Code Switched NER - https://code-switching.github.io/2018/#shared-task-id
+* Bullying Traces Data Set - https://research.cs.wisc.edu/bullying/data.html
 
 ### Machine Translation
 * TwitterMT - http://komunitatea.elhuyar.eus/tweetmt/resources/#Downloads
