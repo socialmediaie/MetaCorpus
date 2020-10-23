@@ -257,6 +257,11 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Self-annotated sarcasm corpora - http://nlp.cs.princeton.edu/SARC/2.0/ [Paper](https://www.aclweb.org/anthology/papers/L/L18/L18-1102/)
 * Conversational data - https://github.com/PolyAI-LDN/conversational-datasets
 
+
+## Gab
+
+* The Gab Hate Corpus - https://osf.io/edua3/
+
 ### Summarization
 
 * TL;DR corpus - https://zenodo.org/record/1168855#.X1WcDGdKidY
