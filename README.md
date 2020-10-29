@@ -218,6 +218,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Celebrity Profiling - Celebrity Tweet Profiles liked with demographic attributes and Wikidata - https://github.com/webis-de/ACL-19/tree/master/celebrity-profiling
 * Topical Attention Election and Brexit - https://github.com/somethingx01/TopicalAttentionElection https://github.com/somethingx01/TopicalAttentionBrexit
 * Hashtag segmentation - https://github.com/mounicam/hashtag_master
+* English Twitter corpus (Geo-Tweets2019) built for training dialect-sensitive word embeddings - https://yuxingch.github.io/DialectGram/
 
 ### Embeddings
 
