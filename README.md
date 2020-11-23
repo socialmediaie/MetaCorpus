@@ -86,7 +86,6 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Political Parody (politican tweets and their parody tweets) - https://archive.org/details/parody_data_acl20
 * Italian Twitter Corpus of Hate Speech - https://github.com/msang/hate-speech-corpus
 * TRAC 2020 Multilingual Annotated Corpus of Misogyny and Aggression - https://sites.google.com/view/trac2/shared-task?authuser=0 - [drive](https://drive.google.com/open?id=1MRRWK1t6gO-VoS0TevNK5fFl_dtZHJ_A)
-* Ask.fm Cyberbullying Corpus - https://ritual.uh.edu/cyberbullying-corpus/
 * Detecting Nastiness in Social Media - http://ritual.uh.edu/wp-content/uploads/2017/08/ask.fm_dataset.zip
 * Social Bias Frames (Twitter, Reddit, etc for multiple tags) - https://homes.cs.washington.edu/~msap/social-bias-frames/
 * User level abusive, hate, and bully classification - https://zenodo.org/record/1184178#.Xgu24UdKh3g
@@ -207,6 +206,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 ### General
 * Summarizing Tweets - https://github.com/cocoxu/twittersummarization
+* Disaster Tweet Summarization - https://github.com/krudra/disaster_summarizer_TWEB_2018
+* Tweets informing about resource needs and availabilities in post-disaster situation - https://zenodo.org/record/2649794#.X7vpaGhKh3g
 * Paraphrase identification - https://github.com/cocoxu/SemEval-PIT2015
 * URL base large scale paraphrase dataset - https://github.com/lanwuwei/Twitter-URL-Corpus
 * Language identification code-switched - http://www.care4lang.seas.gwu.edu/cs2/call.html
@@ -252,6 +253,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 * Sentube sentiment - https://github.com/Abdelghafour01/sentube-sentiment
 * Multimodal sentiment from video - https://github.com/soujanyaporia/multimodal-sentiment-analysis
+* Tamil Malayalam Code-Mix Sentiment - https://dravidian-codemix.github.io/2020/datasets.html
+
 
 ## Reddit
 
@@ -284,6 +287,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 ## Delicious 
 
 * SocialBM0311 is a large-scale social tagging/bookmarking dataset collected from Delicious.com - http://www.zubiaga.org/datasets/socialbm0311/
+
+## Ask.fm
+
+* Ask.fm Cyberbullying Corpus - https://ritual.uh.edu/cyberbullying-corpus/
 
 
 ## Flickr
