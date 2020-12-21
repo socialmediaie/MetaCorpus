@@ -221,6 +221,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Topical Attention Election and Brexit - https://github.com/somethingx01/TopicalAttentionElection https://github.com/somethingx01/TopicalAttentionBrexit
 * Hashtag segmentation - https://github.com/mounicam/hashtag_master
 * English Twitter corpus (Geo-Tweets2019) built for training dialect-sensitive word embeddings - https://yuxingch.github.io/DialectGram/
+* Many twitter datasets from ICWSM 2017 - https://zenodo.org/search?page=1&size=20&q=ICWSM
 
 ### Embeddings
 
