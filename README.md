@@ -122,6 +122,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Geolocation prediction from text - https://archive.org/details/twitter_cikm_2010
 * Social Bias Inference Corpus (SBIC) contains 150k structured annotations of social media posts - https://homes.cs.washington.edu/~msap/social-bias-frames/
 * Civil Unrest Tweets - https://github.com/AADeLucia/JHU-CUT
+* Japanese Tweet Sentiment Corpus (500k) - http://www.db.info.gifu-u.ac.jp/data/Data_5d832973308d57446583ed9f
+* Japanese Covid 19 Tweet Relevance - http://www.db.info.gifu-u.ac.jp/data/Data_5f02db873363f976fce930d1
 
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
