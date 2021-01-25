@@ -125,6 +125,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Japanese Tweet Sentiment Corpus (500k) - http://www.db.info.gifu-u.ac.jp/data/Data_5d832973308d57446583ed9f
 * Japanese Covid 19 Tweet Relevance - http://www.db.info.gifu-u.ac.jp/data/Data_5f02db873363f976fce930d1
 
+
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
 * Roumors dataset - https://github.com/vahedq/rumors/tree/master/data
@@ -144,6 +145,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter UD dependency parsing for african american dialect as well as normal english - http://slanglab.cs.umass.edu/TwitterAAE/
 * Linguistic Code-Switching Evaluation Benchmark - https://ritual.uh.edu/lince/
 * Aspect Term-Polarity Co-Extraction - https://github.com/ArrowLuo/DOER
+* Tweets mentinioning drugs and medication (tagging task) - https://healthlanguageprocessing.org/pubs/journals/kusuri/
+* Drug entity linking on Tweets - https://healthlanguageprocessing.org/sharedtask2/smm4h-sharedtask-2017/
 
 #### NER datasets
 * Italian - http://neel-it.github.io/
