@@ -125,6 +125,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Japanese Tweet Sentiment Corpus (500k) - http://www.db.info.gifu-u.ac.jp/data/Data_5d832973308d57446583ed9f
 * Japanese Covid 19 Tweet Relevance - http://www.db.info.gifu-u.ac.jp/data/Data_5f02db873363f976fce930d1
 * Arabic Tweet Sentiment - https://archive.ics.uci.edu/ml/datasets/Twitter+Data+set+for+Arabic+Sentiment+Analysis
+* English Spanish Tweet Hate Speech - https://competitions.codalab.org/competitions/19935
 
 
 ### Stance detection
