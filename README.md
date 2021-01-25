@@ -232,6 +232,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * English Twitter corpus (Geo-Tweets2019) built for training dialect-sensitive word embeddings - https://yuxingch.github.io/DialectGram/
 * Many twitter datasets from ICWSM 2017 - https://zenodo.org/search?page=1&size=20&q=ICWSM
 * Arabic English parallel Tweets - https://alt.qcri.org/resources/bilingual_corpus_of_parallel_tweets
+* Voter Fraud Tweet dataset - https://voterfraud2020.io/
 
 ### Embeddings
 
