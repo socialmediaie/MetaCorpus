@@ -152,6 +152,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Aspect Term-Polarity Co-Extraction - https://github.com/ArrowLuo/DOER
 * Tweets mentinioning drugs and medication (tagging task) - https://healthlanguageprocessing.org/pubs/journals/kusuri/
 * Drug entity linking on Tweets - https://healthlanguageprocessing.org/sharedtask2/smm4h-sharedtask-2017/ (additional tweet datasets - https://healthlanguageprocessing.org/software-and-downloads/)
+* Tweet, FB, and WhatsApp Code-Switched POS tagging - http://amitavadas.com/Code-Mixing.html
 
 #### NER datasets
 * Italian - http://neel-it.github.io/
