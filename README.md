@@ -127,6 +127,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Arabic Tweet Sentiment - https://archive.ics.uci.edu/ml/datasets/Twitter+Data+set+for+Arabic+Sentiment+Analysis
 * English Spanish Tweet Hate Speech - https://competitions.codalab.org/competitions/19935
 * TREC-IS - Detailed annotated Crisis Tweets - http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html
+* Hinglish Spanglish Code-Mixed Tweet Sentiment - https://ritual-uh.github.io/sentimix2020/res
 
 
 ### Stance detection
