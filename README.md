@@ -343,3 +343,5 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Klout FB and Twitter user reaction timestamps - https://github.com/klout/opendata/blob/master/when_to_post/README.md
 * GSCL Shared Task: Automatic Linguistic Annotation of Computer-Mediated Communication / Social Media (POS and tokenization) https://sites.google.com/site/empirist2015/
 * MediaEval 2020: Various datasets for media evaluation includes Fake News tweet data - https://multimediaeval.github.io/editions/2020/
+* Multilingual EN, JA, ZH Covid Weibo data - https://github.com/sociocom/covid19_dataset
+
