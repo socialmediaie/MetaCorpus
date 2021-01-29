@@ -129,6 +129,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * TREC-IS - Detailed annotated Crisis Tweets - http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html
 * Hinglish Spanglish Code-Mixed Tweet Sentiment - https://ritual-uh.github.io/sentimix2020/res
 * Manually annotated Arabic Sentiment data - https://github.com/motazsaad/arabic-sentiment-analysis
+* Semeval 2017 English Arabic Sentiment data - https://alt.qcri.org/semeval2017/task4/index.php?id=results
 
 
 ### Stance detection
