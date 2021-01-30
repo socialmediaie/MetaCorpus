@@ -130,6 +130,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Hinglish Spanglish Code-Mixed Tweet Sentiment - https://ritual-uh.github.io/sentimix2020/res
 * Manually annotated Arabic Sentiment data - https://github.com/motazsaad/arabic-sentiment-analysis
 * Semeval 2017 English Arabic Sentiment data - https://alt.qcri.org/semeval2017/task4/index.php?id=results
+* Italian tweets Named Entity Linking - https://github.com/evalita2016/data
+* Italian tweets factual annotation - https://github.com/evalita2016/data
 
 
 ### Stance detection
