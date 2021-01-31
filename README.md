@@ -176,6 +176,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Temporally-Informed Analysis of Named Entity Recognition - https://zenodo.org/record/3899040#.XyNTV_hKidY
 * Code Switched NER - https://code-switching.github.io/2018/#shared-task-id
 * Bullying Traces Data Set - https://research.cs.wisc.edu/bullying/data.html
+* Hindi English Codemixed NER - https://github.com/SilentFlame/Named-Entity-Recognition
+
 
 ### Machine Translation
 * TwitterMT - http://komunitatea.elhuyar.eus/tweetmt/resources/#Downloads
