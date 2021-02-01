@@ -132,6 +132,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Semeval 2017 English Arabic Sentiment data - https://alt.qcri.org/semeval2017/task4/index.php?id=results
 * Italian tweets Named Entity Linking - https://github.com/evalita2016/data
 * Italian tweets factual annotation - https://github.com/evalita2016/data
+* Tweet Image to Emoji dataset (4M) - https://www.cs.utexas.edu/~ziad/emoji_visual_sentiment.html
 
 
 ### Stance detection
