@@ -133,6 +133,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Italian tweets Named Entity Linking - https://github.com/evalita2016/data
 * Italian tweets factual annotation - https://github.com/evalita2016/data
 * Tweet Image to Emoji dataset (4M) - https://www.cs.utexas.edu/~ziad/emoji_visual_sentiment.html
+* Visual Public Emotions dataset - https://github.com/cvlab-stonybrook/Emotion-Prediction/tree/master/main/PublicEmotionDatasets
 
 
 ### Stance detection
