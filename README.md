@@ -288,6 +288,11 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Conversational data - https://github.com/PolyAI-LDN/conversational-datasets
 
 
+### Named Entitis
+
+* Entity Linking dataset - https://zenodo.org/record/3970806
+
+
 ## Gab
 
 * The Gab Hate Corpus - https://osf.io/edua3/
