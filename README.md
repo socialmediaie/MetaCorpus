@@ -249,6 +249,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 ### Embeddings
 
 * Word Embedding Data Sets Learned from 400M Tweets and General Data - https://zenodo.org/record/581402#.XyNhUPhKidY
+* Glove Word Embeddings - https://zenodo.org/record/3237458#.YEo-eZ1Kh3g
 * Monthly word embeddings for Twitter random sample (English, 2012-2018) - https://zenodo.org/record/3527983
 
 
