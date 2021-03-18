@@ -180,6 +180,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Code Switched NER - https://code-switching.github.io/2018/#shared-task-id
 * Bullying Traces Data Set - https://research.cs.wisc.edu/bullying/data.html
 * Hindi English Codemixed NER - https://github.com/SilentFlame/Named-Entity-Recognition
+* Cyberthreat detection - https://github.com/ndionysus/multitask-cyberthreat-detection - https://github.com/ndionysus/twitter-cyberthreat-detection
 
 
 ### Machine Translation
