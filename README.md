@@ -135,6 +135,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Tweet Image to Emoji dataset (4M) - https://www.cs.utexas.edu/~ziad/emoji_visual_sentiment.html
 * Visual Public Emotions dataset - https://github.com/cvlab-stonybrook/Emotion-Prediction/tree/master/main/PublicEmotionDatasets
 * EmotionGIF 2020 Shared task on tweet text to GIF category prediction - https://sites.google.com/view/emotiongif-2020/shared-task/dataset?authuser=0
+* iSarcasm - sarcasm, irony, satire, understatement, overstatement, rhetorical question - https://github.com/silviu-oprea/iSarcasm
 
 
 ### Stance detection
