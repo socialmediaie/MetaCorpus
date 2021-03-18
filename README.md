@@ -249,6 +249,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Voter Fraud Tweet dataset - https://voterfraud2020.io/
 * Multiple Arabic Tweet datasets - http://qufaculty.qu.edu.qa/telsayed/datasets/
 * Sentiment Analysis for Indian Languages (HI, BN, TM tweets) - http://amitavadas.com/SAIL/data.html (Download from: http://amitavadas.com/SAIL/Data/)
+* Twitter customer care conversations dataset - https://github.com/IBM/twitter-customer-care-document-prediction
 
 ### Embeddings
 
