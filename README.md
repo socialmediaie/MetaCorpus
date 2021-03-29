@@ -277,6 +277,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Facebook post valence and arousal - http://www.preotiuc.ro/resources.html
 * [FB What (or Who) Is Public? Privacy Settings and Social Media Content Sharing](http://eegilbert.org/papers/) - https://github.com/compsocial/WhatWhoCSCW2017
 * FB English Hindi Aggresion Identification - https://sites.google.com/view/trac1/shared-task
+* FB News Page and Posts - https://bigquery.cloud.google.com/dataset/jbencina-144002:fb_news and https://github.com/jbencina/facebook-news/
+
 
 ## Youtube:
 
