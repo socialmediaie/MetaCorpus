@@ -137,6 +137,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * EmotionGIF 2020 Shared task on tweet text to GIF category prediction - https://sites.google.com/view/emotiongif-2020/shared-task/dataset?authuser=0
 * iSarcasm - sarcasm, irony, satire, understatement, overstatement, rhetorical question - https://github.com/silviu-oprea/iSarcasm
 * Tweet text classification benchmark - https://github.com/cardiffnlp/tweeteval
+* Feel-IT - Italian Tweet Sentiment and Emotion - https://towardsdatascience.com/sentiment-analysis-and-emotion-recognition-in-italian-using-bert-92f5c8fe8a2
 
 
 ### Stance detection
@@ -278,6 +279,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * [FB What (or Who) Is Public? Privacy Settings and Social Media Content Sharing](http://eegilbert.org/papers/) - https://github.com/compsocial/WhatWhoCSCW2017
 * FB English Hindi Aggresion Identification - https://sites.google.com/view/trac1/shared-task
 * FB News Page and Posts - https://bigquery.cloud.google.com/dataset/jbencina-144002:fb_news and https://github.com/jbencina/facebook-news/
+* MultiEmotion-It - Italian Multiemotion corpus - https://github.com/RacheleSprugnoli/Esercitazioni_SA/tree/master/dataset
 
 
 ## Youtube:
@@ -287,6 +289,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Sentube sentiment - https://github.com/Abdelghafour01/sentube-sentiment
 * Multimodal sentiment from video - https://github.com/soujanyaporia/multimodal-sentiment-analysis
 * Tamil Malayalam Code-Mix Sentiment - https://dravidian-codemix.github.io/2020/datasets.html
+* MultiEmotion-It - Italian Multiemotion corpus - https://github.com/RacheleSprugnoli/Esercitazioni_SA/tree/master/dataset
 
 
 ## Reddit
