@@ -184,6 +184,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Bullying Traces Data Set - https://research.cs.wisc.edu/bullying/data.html
 * Hindi English Codemixed NER - https://github.com/SilentFlame/Named-Entity-Recognition
 * Cyberthreat detection - https://github.com/ndionysus/multitask-cyberthreat-detection - https://github.com/ndionysus/twitter-cyberthreat-detection
+* Lowlands LREC 2014 corrected + new benchmarks - https://bitbucket.org/lowlands/release/src/master/LREC2014/twitter_ner/
 
 
 ### Machine Translation
@@ -211,6 +212,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Yodie corpora: https://gate.ac.uk/applications/yodie.html	
 * https://github.com/juand-r/entity-recognition-datasets
 * Sense disambiguation/Entity Linking - https://github.com/lunafeng/ELTDS
+* Twitter At the Grammy's - Entity Linking and Clustering - https://bitbucket.org/mdredze/tgx
 
 
 ### Treebank and parsing	
