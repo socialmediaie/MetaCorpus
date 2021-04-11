@@ -162,6 +162,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Tweets mentinioning drugs and medication (tagging task) - https://healthlanguageprocessing.org/pubs/journals/kusuri/
 * Drug entity linking on Tweets - https://healthlanguageprocessing.org/sharedtask2/smm4h-sharedtask-2017/ (additional tweet datasets - https://healthlanguageprocessing.org/software-and-downloads/)
 * Tweet, FB, and WhatsApp Code-Switched POS tagging - http://amitavadas.com/Code-Mixing.html
+* Lowlands Cost-sensitive POS tagging data - https://bitbucket.org/lowlands/costsensitive-data/src/master/
 
 #### NER datasets
 * Italian - http://neel-it.github.io/
@@ -213,6 +214,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * https://github.com/juand-r/entity-recognition-datasets
 * Sense disambiguation/Entity Linking - https://github.com/lunafeng/ELTDS
 * Twitter At the Grammy's - Entity Linking and Clustering - https://bitbucket.org/mdredze/tgx
+* NEEL v2 + IE + IR data from Microsoft - https://www.microsoft.com/en-us/download/details.aspx?id=52530
 
 
 ### Treebank and parsing	
