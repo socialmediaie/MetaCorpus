@@ -191,6 +191,18 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Lowlands LREC 2014 corrected + new benchmarks - https://bitbucket.org/lowlands/release/src/master/LREC2014/twitter_ner/
 
 
+		
+### Entity Linking	
+* 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
+* NEEL Microposts challenge - http://microposts2016.seas.upenn.edu/	
+* Yodie corpora: https://gate.ac.uk/applications/yodie.html	
+* https://github.com/juand-r/entity-recognition-datasets
+* Sense disambiguation/Entity Linking - https://github.com/lunafeng/ELTDS
+* Twitter At the Grammy's - Entity Linking and Clustering - https://bitbucket.org/mdredze/tgx
+* NEEL v2 + IE + IR data from Microsoft - https://www.microsoft.com/en-us/download/details.aspx?id=52530
+* Twitter NEED - https://github.com/badiehm/TwitterNEED
+
+
 ### Machine Translation
 * TwitterMT - http://komunitatea.elhuyar.eus/tweetmt/resources/#Downloads
 * Parallel text extracted from twitter and Weibo - http://www.cs.cmu.edu/~lingwang/microtopia/#twitter
@@ -209,15 +221,6 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Augmented dataset of rumours and non-rumours for rumour detection - https://zenodo.org/record/3269768#.XyNe3fhKidY
 * Tweet Check-Worthiness - https://sites.google.com/view/clef2020-checkthat/tasks/tasks-1-5-check-worthiness?authuser=0
 * Profiling fake news spreaders on Twitter - https://pan.webis.de/clef20/pan20-web/author-profiling.html
-		
-### Entity Linking	
-* 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
-* NEEL Microposts challenge - http://microposts2016.seas.upenn.edu/	
-* Yodie corpora: https://gate.ac.uk/applications/yodie.html	
-* https://github.com/juand-r/entity-recognition-datasets
-* Sense disambiguation/Entity Linking - https://github.com/lunafeng/ELTDS
-* Twitter At the Grammy's - Entity Linking and Clustering - https://bitbucket.org/mdredze/tgx
-* NEEL v2 + IE + IR data from Microsoft - https://www.microsoft.com/en-us/download/details.aspx?id=52530
 
 
 ### Treebank and parsing	
