@@ -144,6 +144,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
 * Roumors dataset - https://github.com/vahedq/rumors/tree/master/data
+* Twitter Stance re-annotated with emotion - http://www.romanklinger.de/ssec/
 
 ### Tagging
 
