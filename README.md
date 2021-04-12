@@ -165,6 +165,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Drug entity linking on Tweets - https://healthlanguageprocessing.org/sharedtask2/smm4h-sharedtask-2017/ (additional tweet datasets - https://healthlanguageprocessing.org/software-and-downloads/)
 * Tweet, FB, and WhatsApp Code-Switched POS tagging - http://amitavadas.com/Code-Mixing.html
 * Lowlands Cost-sensitive POS tagging data - https://bitbucket.org/lowlands/costsensitive-data/src/master/
+* Entity Profiling in Microblog Posts (Aspect phrases and Opinion Targets) - http://nlp.uned.es/~damiano/datasets/entityProfiling_ORM_Twitter.html
 
 #### NER datasets
 * Italian - http://neel-it.github.io/
