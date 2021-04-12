@@ -260,6 +260,9 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter customer care conversations dataset - https://github.com/IBM/twitter-customer-care-document-prediction
 * WebLogo - 2m logo images from Twitter belonging to o specific logo types - https://weblogo2m.github.io/
 * Disaster Tweet Corpus - https://zenodo.org/record/3713920
+* Realtime classification of Twitter Trends - http://nlp.uned.es/~damiano/datasets/TT-classification.html
+* RepLab 2014 (tweeet topic and tweet author reputation) - http://nlp.uned.es/replab2014/#dataset
+* RepLab 2013 (entity relevance, polarity, clustering) - http://www.evall.uned.es/evaluate_using_benchmark#benchmark/description
 
 ### Embeddings
 
