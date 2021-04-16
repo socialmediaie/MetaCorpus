@@ -268,6 +268,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * RepLab 2014 (tweeet topic and tweet author reputation) - http://nlp.uned.es/replab2014/#dataset
 * RepLab 2013 (entity relevance, polarity, clustering) - http://www.evall.uned.es/evaluate_using_benchmark#benchmark/description
 
+### Tips and Tricks
+* General tricks on using the Twitter search API properly with custom filters - https://github.com/igorbrigadir/twitter-advanced-search
+* Important time stamps in history of Twitter - https://github.com/igorbrigadir/twitter-history
+
 ### Embeddings
 
 * Word Embedding Data Sets Learned from 400M Tweets and General Data - https://zenodo.org/record/581402#.XyNhUPhKidY
