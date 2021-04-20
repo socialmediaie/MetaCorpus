@@ -232,6 +232,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 ### Question answering	
 * Tweet QA - https://tweetqa.github.io/
 
+### Information Retrieval
+
+* Signal-1M - https://research.signal-ai.com/datasets/signal1m-tweetir.html [tweets data](https://github.com/igorbrigadir/newsir16-data/tree/master/twitter/curated) - Related to https://research.signal-ai.com/newsir16/signal-dataset.html
+
 ### Multimodal
 
 * Hate speech images - https://github.com/imatge-upc/hate-speech-detection
