@@ -188,7 +188,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Telugu - https://github.com/anikethjr/NER_Telugu
 * German Italian and Spanish - https://github.com/lrei/xlime_twitter_corpus
 * Hindi - http://au-kbc.org/nlp/ESM-FIRE2015/
-* Temporally-Informed Analysis of Named Entity Recognition - https://zenodo.org/record/3899040#.XyNTV_hKidY
+* Temporally-Informed Analysis of Named Entity Recognition - https://zenodo.org/record/3899040#.XyNTV_hKidY - https://github.com/shrutirij/temporal-twitter-corpus
 * Code Switched NER - https://code-switching.github.io/2018/#shared-task-id
 * Bullying Traces Data Set - https://research.cs.wisc.edu/bullying/data.html
 * Hindi English Codemixed NER - https://github.com/SilentFlame/Named-Entity-Recognition
@@ -217,6 +217,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 ### Paraphrase identification
 * Paraphrase identification - https://github.com/cocoxu/SemEval-PIT2015
 * URL base large scale paraphrase dataset - https://github.com/lanwuwei/Twitter-URL-Corpus
+* Twitter Paraphrase Corpus - https://github.com/jpcorb20/bet-backtranslation-paraphrase-experiment/tree/master/datasets
 
 
 ### Rumour detection 
@@ -284,6 +285,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Realtime classification of Twitter Trends - http://nlp.uned.es/~damiano/datasets/TT-classification.html
 * RepLab 2014 (tweeet topic and tweet author reputation) - http://nlp.uned.es/replab2014/#dataset
 * RepLab 2013 (entity relevance, polarity, clustering) - http://www.evall.uned.es/evaluate_using_benchmark#benchmark/description
+* Papers and codes with Twitter datasets - https://index.quantumstat.com/#twitter
 
 ### Tips and Tricks
 * General tricks on using the Twitter search API properly with custom filters - https://github.com/igorbrigadir/twitter-advanced-search
