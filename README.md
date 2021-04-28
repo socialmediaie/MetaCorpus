@@ -207,6 +207,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * NEEL v2 + IE + IR data from Microsoft - https://www.microsoft.com/en-us/download/details.aspx?id=52530
 * Twitter NEED - https://github.com/badiehm/TwitterNEED
 * WSDM 2012 - https://github.com/dice-group/gerbil/issues/46#issuecomment-257821253 - https://edgar.meij.pro/dataset-adding-semantics-microblog-posts/?utm_source=bit.ly&utm_medium=linked&utm_campaign=myblog
+* Multilingual Entity Linking in Tweets - https://github.com/OA256864/MEL_Tweets
 
 
 ### Machine Translation
