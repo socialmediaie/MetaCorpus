@@ -139,6 +139,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Irony Sarcasm Analysis Corpus - http://romanklinger.de/ironysarcasm/
 * Tweet text classification benchmark - https://github.com/cardiffnlp/tweeteval
 * Feel-IT - Italian Tweet Sentiment and Emotion - https://towardsdatascience.com/sentiment-analysis-and-emotion-recognition-in-italian-using-bert-92f5c8fe8a2
+* Multilingual Twitter Hatespeech with Demographic Attributes - https://github.com/xiaoleihuang/Multilingual_Fairness_LREC
 
 
 ### Stance detection
@@ -271,6 +272,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Realtime classification of Twitter Trends - http://nlp.uned.es/~damiano/datasets/TT-classification.html
 * RepLab 2014 (tweeet topic and tweet author reputation) - http://nlp.uned.es/replab2014/#dataset
 * RepLab 2013 (entity relevance, polarity, clustering) - http://www.evall.uned.es/evaluate_using_benchmark#benchmark/description
+* Twitter Chat Corpus - https://github.com/marsan-ma/chat_corpus
 
 ### Tips and Tricks
 * General tricks on using the Twitter search API properly with custom filters - https://github.com/igorbrigadir/twitter-advanced-search
