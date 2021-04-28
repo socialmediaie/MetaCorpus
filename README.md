@@ -136,7 +136,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Visual Public Emotions dataset - https://github.com/cvlab-stonybrook/Emotion-Prediction/tree/master/main/PublicEmotionDatasets
 * EmotionGIF 2020 Shared task on tweet text to GIF category prediction - https://sites.google.com/view/emotiongif-2020/shared-task/dataset?authuser=0
 * iSarcasm - sarcasm, irony, satire, understatement, overstatement, rhetorical question - https://github.com/silviu-oprea/iSarcasm
-* Irony Sarcasm Analysis Corpus - http://romanklinger.de/ironysarcasm/
+* Irony Sarcasm Analysis Corpus (includes geolocation info) - http://romanklinger.de/ironysarcasm/
 * Tweet text classification benchmark - https://github.com/cardiffnlp/tweeteval
 * Feel-IT - Italian Tweet Sentiment and Emotion - https://towardsdatascience.com/sentiment-analysis-and-emotion-recognition-in-italian-using-bert-92f5c8fe8a2
 * Multilingual Twitter Hatespeech with Demographic Attributes - https://github.com/xiaoleihuang/Multilingual_Fairness_LREC
@@ -234,6 +234,13 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 ### Question answering	
 * Tweet QA - https://tweetqa.github.io/
 
+
+### Conversations
+
+* Twitter Chat Corpus - https://github.com/marsan-ma/chat_corpus
+* Microsoft Research Social Media Conversation Corpus - https://www.microsoft.com/en-us/download/details.aspx?id=52375
+
+
 ### Information Retrieval
 
 * Signal-1M - https://research.signal-ai.com/datasets/signal1m-tweetir.html [tweets data](https://github.com/igorbrigadir/newsir16-data/tree/master/twitter/curated) - Related to https://research.signal-ai.com/newsir16/signal-dataset.html
@@ -273,7 +280,6 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Realtime classification of Twitter Trends - http://nlp.uned.es/~damiano/datasets/TT-classification.html
 * RepLab 2014 (tweeet topic and tweet author reputation) - http://nlp.uned.es/replab2014/#dataset
 * RepLab 2013 (entity relevance, polarity, clustering) - http://www.evall.uned.es/evaluate_using_benchmark#benchmark/description
-* Twitter Chat Corpus - https://github.com/marsan-ma/chat_corpus
 
 ### Tips and Tricks
 * General tricks on using the Twitter search API properly with custom filters - https://github.com/igorbrigadir/twitter-advanced-search
