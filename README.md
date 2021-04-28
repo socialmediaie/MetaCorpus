@@ -142,6 +142,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Multilingual Twitter Hatespeech with Demographic Attributes - https://github.com/xiaoleihuang/Multilingual_Fairness_LREC
 * Gender and Individual/Org predictor from Tweet User - https://bitbucket.org/mdredze/demographer
 * Hurricane Emotions - https://github.com/shreydesai/hurricane
+* COVID19 Fake News Detection in English - https://competitions.codalab.org/competitions/26655 - https://constraint-shared-task-2021.github.io/ 
+* Hostile Post Detection in Hindi - https://competitions.codalab.org/competitions/26654 - https://constraint-shared-task-2021.github.io/
 
 
 ### Stance detection
