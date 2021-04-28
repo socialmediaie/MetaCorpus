@@ -141,6 +141,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Feel-IT - Italian Tweet Sentiment and Emotion - https://towardsdatascience.com/sentiment-analysis-and-emotion-recognition-in-italian-using-bert-92f5c8fe8a2
 * Multilingual Twitter Hatespeech with Demographic Attributes - https://github.com/xiaoleihuang/Multilingual_Fairness_LREC
 * Gender and Individual/Org predictor from Tweet User - https://bitbucket.org/mdredze/demographer
+* Hurricane Emotions - https://github.com/shreydesai/hurricane
 
 
 ### Stance detection
