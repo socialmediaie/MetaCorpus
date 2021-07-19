@@ -171,6 +171,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Tweet, FB, and WhatsApp Code-Switched POS tagging - http://amitavadas.com/Code-Mixing.html
 * Lowlands Cost-sensitive POS tagging data - https://bitbucket.org/lowlands/costsensitive-data/src/master/
 * Entity Profiling in Microblog Posts (Aspect phrases and Opinion Targets) - http://nlp.uned.es/~damiano/datasets/entityProfiling_ORM_Twitter.html
+* Twitter Domain Adapted POS dataset - https://github.com/guitaowufeng/TPANN/tree/master/data
 
 #### NER datasets
 * Italian - http://neel-it.github.io/
