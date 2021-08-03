@@ -287,6 +287,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * RepLab 2014 (tweeet topic and tweet author reputation) - http://nlp.uned.es/replab2014/#dataset
 * RepLab 2013 (entity relevance, polarity, clustering) - http://www.evall.uned.es/evaluate_using_benchmark#benchmark/description
 * Papers and codes with Twitter datasets - https://index.quantumstat.com/#twitter
+* Hateful user dataset - https://www.kaggle.com/manoelribeiro/hateful-users-on-twitter [Source](https://github.com/hate-alert/Hateful-users-detection) 
 
 ### Tips and Tricks
 * General tricks on using the Twitter search API properly with custom filters - https://github.com/igorbrigadir/twitter-advanced-search
@@ -351,6 +352,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 ## Gab
 
 * The Gab Hate Corpus - https://osf.io/edua3/
+* Hateful user dataset - https://zenodo.org/record/5140191#.YQBGhI4zY2w [Source](https://github.com/hate-alert/Hateful-users-detection)
 
 ### Summarization
 
