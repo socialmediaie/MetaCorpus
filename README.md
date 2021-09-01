@@ -138,6 +138,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * iSarcasm - sarcasm, irony, satire, understatement, overstatement, rhetorical question - https://github.com/silviu-oprea/iSarcasm
 * Irony Sarcasm Analysis Corpus (includes geolocation info) - http://romanklinger.de/ironysarcasm/
 * Tweet text classification benchmark - https://github.com/cardiffnlp/tweeteval
+* Unified Multilingual Sentiment Analysis Benchmark - https://github.com/cardiffnlp/xlm-t
 * Feel-IT - Italian Tweet Sentiment and Emotion - https://towardsdatascience.com/sentiment-analysis-and-emotion-recognition-in-italian-using-bert-92f5c8fe8a2
 * Multilingual Twitter Hatespeech with Demographic Attributes - https://github.com/xiaoleihuang/Multilingual_Fairness_LREC
 * Gender and Individual/Org predictor from Tweet User - https://bitbucket.org/mdredze/demographer
