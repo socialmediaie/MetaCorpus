@@ -145,6 +145,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Hurricane Emotions - https://github.com/shreydesai/hurricane
 * COVID19 Fake News Detection in English - https://competitions.codalab.org/competitions/26655 - https://constraint-shared-task-2021.github.io/ 
 * Hostile Post Detection in Hindi - https://competitions.codalab.org/competitions/26654 - https://constraint-shared-task-2021.github.io/
+* Implicit and Explicit Hate - https://github.com/GT-SALT/implicit-hate
 
 
 ### Stance detection
