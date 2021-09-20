@@ -418,4 +418,5 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * MediaEval 2020: Various datasets for media evaluation includes Fake News tweet data - https://multimediaeval.github.io/editions/2020/
 * Multilingual EN, JA, ZH Covid Weibo data - https://github.com/sociocom/covid19_dataset
 * Matching identities across social media platforms - http://lig-membres.imag.fr/gogao/data.html
+* Internet Argument Corpus v2 - https://nlds.soe.ucsc.edu/iac2
 
