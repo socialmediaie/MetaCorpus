@@ -207,6 +207,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * https://github.com/juand-r/entity-recognition-datasets
 * Sense disambiguation/Entity Linking - https://github.com/lunafeng/ELTDS
 * Twitter At the Grammy's - Entity Linking and Clustering - https://bitbucket.org/mdredze/tgx
+* Entity Clustering - https://bitbucket.org/noandrews/phyloinf
 * NEEL v2 + IE + IR data from Microsoft - https://www.microsoft.com/en-us/download/details.aspx?id=52530
 * Twitter NEED - https://github.com/badiehm/TwitterNEED
 * WSDM 2012 - https://github.com/dice-group/gerbil/issues/46#issuecomment-257821253 - https://edgar.meij.pro/dataset-adding-semantics-microblog-posts/?utm_source=bit.ly&utm_medium=linked&utm_campaign=myblog
