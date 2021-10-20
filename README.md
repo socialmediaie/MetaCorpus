@@ -248,6 +248,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 * Twitter Chat Corpus - https://github.com/marsan-ma/chat_corpus
 * Microsoft Research Social Media Conversation Corpus - https://www.microsoft.com/en-us/download/details.aspx?id=52375
+* Coreference Resolution in Twitter Conversations - https://github.com/verosol/e2e-coref-to-Twitter
 
 
 ### Information Retrieval
