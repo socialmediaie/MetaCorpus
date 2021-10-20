@@ -335,6 +335,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Multimodal sentiment from video - https://github.com/soujanyaporia/multimodal-sentiment-analysis
 * Tamil Malayalam Code-Mix Sentiment - https://dravidian-codemix.github.io/2020/datasets.html
 * MultiEmotion-It - Italian Multiemotion corpus - https://github.com/RacheleSprugnoli/Esercitazioni_SA/tree/master/dataset
+* JTubeSpeech: Corpus of speech collected from YouTube - https://github.com/sarulab-speech/jtubespeech
 
 
 ## Reddit
