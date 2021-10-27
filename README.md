@@ -1,6 +1,49 @@
 # MetaCorpus
 A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http://socialmediaie.github.io). 
 
+- [MetaCorpus](#metacorpus)
+  * [Twitter](#twitter)
+    + [Classification](#classification)
+    + [Stance detection](#stance-detection)
+    + [Tagging](#tagging)
+      - [NER datasets](#ner-datasets)
+    + [Entity Linking](#entity-linking)
+    + [Machine Translation](#machine-translation)
+    + [Paraphrase identification](#paraphrase-identification)
+    + [Rumour detection](#rumour-detection)
+    + [Treebank and parsing](#treebank-and-parsing)
+    + [Question answering](#question-answering)
+    + [Conversations](#conversations)
+    + [Information Retrieval](#information-retrieval)
+    + [Multimodal](#multimodal)
+    + [General](#general)
+    + [Tips and Tricks](#tips-and-tricks)
+    + [Embeddings](#embeddings)
+    + [Unlabled topic specific data dumps](#unlabled-topic-specific-data-dumps)
+  * [Facebook](#facebook)
+    + [Classification](#classification-1)
+  * [Youtube:](#youtube-)
+    + [Classification](#classification-2)
+  * [Reddit](#reddit)
+    + [Classification](#classification-3)
+    + [Sequence Tagging](#sequence-tagging)
+    + [Named Entitis](#named-entitis)
+  * [Gab](#gab)
+    + [Summarization](#summarization)
+    + [Amazon](#amazon)
+  * [About.me](#aboutme)
+  * [Whatsapp](#whatsapp)
+  * [Delicious](#delicious)
+  * [Ask.fm](#askfm)
+  * [Flickr](#flickr)
+    + [Popularity prediction](#popularity-prediction)
+- [Conversations](#conversations-1)
+- [News Comments](#news-comments)
+  * [General](#general-1)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Twitter
 
 
