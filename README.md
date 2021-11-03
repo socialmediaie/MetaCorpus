@@ -189,6 +189,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * COVID19 Fake News Detection in English - https://competitions.codalab.org/competitions/26655 - https://constraint-shared-task-2021.github.io/ 
 * Hostile Post Detection in Hindi - https://competitions.codalab.org/competitions/26654 - https://constraint-shared-task-2021.github.io/
 * Implicit and Explicit Hate - https://github.com/GT-SALT/implicit-hate
+* SMILE: Twitter Emotion Classification using Domain Adaptation - https://www.kaggle.com/ashkhagan/smile-twitter-emotion-dataset
+
 
 
 ### Stance detection
@@ -339,6 +341,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * A directory of local news outlets by state and medium. Includes social media accounts for local news outlets - https://github.com/yinleon/LocalNewsDataset
 * Tweets about the Top Companies from 2015 to 2020 - https://www.kaggle.com/omermetinn/tweets-about-the-top-companies-from-2015-to-2020
 * 40k full Twitter user profile data (including who they follow!) - https://www.kaggle.com/hwassner/TwitterFriends
+* Twitter User Demographics Prediction - https://www.kaggle.com/crowdflower/twitter-user-gender-classification
+* Twitter Social Network [ASU] - https://www.kaggle.com/mathurinache/twitter-edge-nodes [Original Data](http://datasets.syr.edu/datasets/Twitter.html) [Other OSN network data](http://datasets.syr.edu/pages/datasets.html)
 
 ### Tips and Tricks
 * General tricks on using the Twitter search API properly with custom filters - https://github.com/igorbrigadir/twitter-advanced-search
