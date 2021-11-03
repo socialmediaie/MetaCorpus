@@ -338,6 +338,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Dataset of public interest interventions on Twitter for politicians and candidates during the 2020 US General Election - https://github.com/SMAPPNYU/twitter_elections_public_interest
 * A directory of local news outlets by state and medium. Includes social media accounts for local news outlets - https://github.com/yinleon/LocalNewsDataset
 * Tweets about the Top Companies from 2015 to 2020 - https://www.kaggle.com/omermetinn/tweets-about-the-top-companies-from-2015-to-2020
+* 40k full Twitter user profile data (including who they follow!) - https://www.kaggle.com/hwassner/TwitterFriends
 
 ### Tips and Tricks
 * General tricks on using the Twitter search API properly with custom filters - https://github.com/igorbrigadir/twitter-advanced-search
@@ -383,6 +384,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * MultiEmotion-It - Italian Multiemotion corpus - https://github.com/RacheleSprugnoli/Esercitazioni_SA/tree/master/dataset
 * JTubeSpeech: Corpus of speech collected from YouTube - https://github.com/sarulab-speech/jtubespeech
 
+
+### General
+
+* Trending YouTube Video Statistics [multi-country] - https://www.kaggle.com/datasnaek/youtube-new
 
 ## Reddit
 
