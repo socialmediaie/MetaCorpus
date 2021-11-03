@@ -337,6 +337,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Hateful user dataset - https://www.kaggle.com/manoelribeiro/hateful-users-on-twitter [Source](https://github.com/hate-alert/Hateful-users-detection)
 * Dataset of public interest interventions on Twitter for politicians and candidates during the 2020 US General Election - https://github.com/SMAPPNYU/twitter_elections_public_interest
 * A directory of local news outlets by state and medium. Includes social media accounts for local news outlets - https://github.com/yinleon/LocalNewsDataset
+* Tweets about the Top Companies from 2015 to 2020 - https://www.kaggle.com/omermetinn/tweets-about-the-top-companies-from-2015-to-2020
 
 ### Tips and Tricks
 * General tricks on using the Twitter search API properly with custom filters - https://github.com/igorbrigadir/twitter-advanced-search
