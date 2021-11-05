@@ -306,6 +306,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Hate Speech Detection in Multimodal Publications - https://gombru.github.io/2019/10/09/MMHS/
 * Text-Image Relationship in Twitter - https://github.com/danielpreotiuc/text-image-relationship
 
+### Sentence Similarity
+
+* Twitter4SSE (Co-QuoteTweet, Co-Reply) - https://github.com/marco-digio/Twitter4SSE
+
 
 ### General
 * Summarizing Tweets - https://github.com/cocoxu/twittersummarization
