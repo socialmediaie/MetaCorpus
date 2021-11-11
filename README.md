@@ -242,6 +242,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Hindi English Codemixed NER - https://github.com/SilentFlame/Named-Entity-Recognition
 * Cyberthreat detection - https://github.com/ndionysus/multitask-cyberthreat-detection - https://github.com/ndionysus/twitter-cyberthreat-detection
 * Lowlands LREC 2014 corrected + new benchmarks - https://bitbucket.org/lowlands/release/src/master/LREC2014/twitter_ner/
+* ParsTwiNER: Parsi Twitter NER - https://github.com/overfit-ir/parstwiner
 
 
 		
