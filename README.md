@@ -190,6 +190,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Hostile Post Detection in Hindi - https://competitions.codalab.org/competitions/26654 - https://constraint-shared-task-2021.github.io/
 * Implicit and Explicit Hate - https://github.com/GT-SALT/implicit-hate
 * SMILE: Twitter Emotion Classification using Domain Adaptation - https://www.kaggle.com/ashkhagan/smile-twitter-emotion-dataset
+* Sarcasm Detection based on User and Reader - https://github.com/bshmueli/SPIRS
 
 
 
@@ -243,6 +244,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Cyberthreat detection - https://github.com/ndionysus/multitask-cyberthreat-detection - https://github.com/ndionysus/twitter-cyberthreat-detection
 * Lowlands LREC 2014 corrected + new benchmarks - https://bitbucket.org/lowlands/release/src/master/LREC2014/twitter_ner/
 * ParsTwiNER: Parsi Twitter NER - https://github.com/overfit-ir/parstwiner
+* MultiModal NER - https://github.com/RiTUAL-UH/multimodal_NER
 
 
 		
@@ -392,6 +394,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Tamil Malayalam Code-Mix Sentiment - https://dravidian-codemix.github.io/2020/datasets.html
 * MultiEmotion-It - Italian Multiemotion corpus - https://github.com/RacheleSprugnoli/Esercitazioni_SA/tree/master/dataset
 * JTubeSpeech: Corpus of speech collected from YouTube - https://github.com/sarulab-speech/jtubespeech
+* Sentnob: Bengali Youtube Comments Sentiment Dataset - https://www.kaggle.com/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts
 
 
 ### General
