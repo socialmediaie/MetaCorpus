@@ -409,6 +409,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Conversational data - https://github.com/PolyAI-LDN/conversational-datasets
 * GoEmotions: A Dataset of Fine-Grained Emotions - https://github.com/google-research/google-research/tree/master/goemotions
 
+### Summarization
+
+* Reddit TIFU: Abstractive Summarization of Reddit Posts (120k) - https://github.com/ctr4si/MMN [HF dataset](https://huggingface.co/datasets/reddit_tifu)
+
 ### Sequence Tagging
 * PASTRIE - MWE annotations - https://github.com/nert-nlp/pastrie
 
