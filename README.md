@@ -421,6 +421,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 * Entity Linking dataset - https://zenodo.org/record/3970806
 
+### Conversations
+
+* Fast Adapation of Predicted User Responses in Goal-Oriented Dialogue - https://competitions.codalab.org/competitions/20152 [Data Source](https://github.com/microsoft/dstc8-reddit-corpus) [HF data](https://huggingface.co/datasets/roskoN/dstc8-reddit-corpus)
+
 ### Tools
 * Data Tools for Reddit - https://github.com/dewarim/data-tools-for-reddit
 
