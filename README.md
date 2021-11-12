@@ -308,6 +308,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Hate speech images - https://github.com/imatge-upc/hate-speech-detection
 * Hate Speech Detection in Multimodal Publications - https://gombru.github.io/2019/10/09/MMHS/
 * Text-Image Relationship in Twitter - https://github.com/danielpreotiuc/text-image-relationship
+* Reaction GIF - Tweet and their GIF Reactions labeled with sarcarsm - https://github.com/bshmueli/ReactionGIF
 
 ### Sentence Similarity
 
