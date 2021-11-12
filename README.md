@@ -352,9 +352,11 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter User Demographics Prediction - https://www.kaggle.com/crowdflower/twitter-user-gender-classification
 * Twitter Social Network [ASU] - https://www.kaggle.com/mathurinache/twitter-edge-nodes [Original Data](http://datasets.syr.edu/datasets/Twitter.html) [Other OSN network data](http://datasets.syr.edu/pages/datasets.html)
 
-### Tips and Tricks
+### Tools, Tips, and Tricks
 * General tricks on using the Twitter search API properly with custom filters - https://github.com/igorbrigadir/twitter-advanced-search
 * Important time stamps in history of Twitter - https://github.com/igorbrigadir/twitter-history
+* Twitter API v2 tutorial - https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research
+* Twarc - https://github.com/DocNow/twarc/
 
 ### Embeddings
 
