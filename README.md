@@ -469,6 +469,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 * Multiple conversation datasets - https://convokit.cornell.edu/
 * Yahoo News Annotated Comments Corpus  - https://github.com/cnap/ynacc
+* Multi-Domain Wizard-of-Oz dataset (MultiWOZ), a fully-labeled collection of human-human written conversations spanning over multiple domains and topics - https://github.com/budzianowski/multiwoz
 
 # News Comments
 
