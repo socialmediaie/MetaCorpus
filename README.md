@@ -188,6 +188,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * SMILE: Twitter Emotion Classification using Domain Adaptation - https://www.kaggle.com/ashkhagan/smile-twitter-emotion-dataset
 * Sarcasm Detection based on User and Reader - https://github.com/bshmueli/SPIRS
 * Arabic Tweet Sentiment - https://github.com/komari6/Arabic-twitter-corpus-AJGT [Parsed format on Huggingface Dataset](https://huggingface.co/datasets/ajgt_twitter_ar)
+* Tweets Hate Speech Detection - https://huggingface.co/datasets/tweets_hate_speech_detection
 
 
 ### Stance detection
@@ -424,6 +425,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 ### Conversations
 
 * Fast Adapation of Predicted User Responses in Goal-Oriented Dialogue - https://competitions.codalab.org/competitions/20152 [Data Source](https://github.com/microsoft/dstc8-reddit-corpus) [HF data](https://huggingface.co/datasets/roskoN/dstc8-reddit-corpus)
+* Reddit Writing Prompts - https://huggingface.co/datasets/rewardsignal/reddit_writing_prompts
 
 ### Tools
 * Data Tools for Reddit - https://github.com/dewarim/data-tools-for-reddit
