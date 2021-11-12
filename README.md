@@ -132,11 +132,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Detecting Nastiness in Social Media - http://ritual.uh.edu/wp-content/uploads/2017/08/ask.fm_dataset.zip
 * Social Bias Frames (Twitter, Reddit, etc for multiple tags) - https://homes.cs.washington.edu/~msap/social-bias-frames/
 * User level abusive, hate, and bully classification - https://zenodo.org/record/1184178#.Xgu24UdKh3g
-* EveTAR test collection, Arabic Test Collection for multiple information retrieval tasks in Twitter - http://qufaculty.qu.edu.qa/telsayed/evetar/ . It supports:
-    - Event detection
-    - Ad-hoc search
-    - Timeline generation
-    - Real-time summarization
+* EveTAR test collection, Arabic Test Collection for multiple information retrieval tasks in Twitter (Event detection, Ad-hoc search, Timeline generation, Real-time summarization) - http://qufaculty.qu.edu.qa/telsayed/evetar/ . It supports:
 * MeToo Dataset annotated for Text_Only_Informative,Image_Only_Informative,Directed_Hate,Generalized_Hate,Sarcasm,Allegation,Justification,Refutation,Support,Oppose - https://github.com/akash418/MeTooMMD	
 * Arabic HateSpeech annotated corpora - https://github.com/nuhaalbadi/Arabic_hatespeech	
 * Arabic Twitter Bots annotated user data - https://github.com/nuhaalbadi/ArabicBots	
@@ -191,7 +187,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Implicit and Explicit Hate - https://github.com/GT-SALT/implicit-hate
 * SMILE: Twitter Emotion Classification using Domain Adaptation - https://www.kaggle.com/ashkhagan/smile-twitter-emotion-dataset
 * Sarcasm Detection based on User and Reader - https://github.com/bshmueli/SPIRS
-
+* Arabic Tweet Sentiment - https://github.com/komari6/Arabic-twitter-corpus-AJGT [Parsed format on Huggingface Dataset](https://huggingface.co/datasets/ajgt_twitter_ar)
 
 
 ### Stance detection
@@ -222,6 +218,9 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter Domain Adapted POS dataset - https://github.com/guitaowufeng/TPANN/tree/master/data
 
 #### NER datasets
+
+* WNUT 2016: Twitter NER - https://github.com/aritter/twitter_nlp/tree/master/data/annotated/wnut16
+* WNUT 2017: Emerging Entities dataset - https://github.com/leondz/emerging_entities_17 [Guidelines](https://github.com/gaguilar/NER-WNUT17/tree/master/data)
 * Italian - http://neel-it.github.io/
 * German, Italian, Spanish - https://github.com/lrei/xlime_twitter_corpus
 * Hindi English code-mixed - https://github.com/SilentFlame/Named-Entity-Recognition
