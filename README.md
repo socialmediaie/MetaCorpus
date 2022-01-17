@@ -316,6 +316,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 
 ### General
+
 * Summarizing Tweets - https://github.com/cocoxu/twittersummarization
 * Disaster Tweet Summarization - https://github.com/krudra/disaster_summarizer_TWEB_2018
 * Tweets informing about resource needs and availabilities in post-disaster situation - https://zenodo.org/record/2649794#.X7vpaGhKh3g
@@ -504,4 +505,5 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Internet Argument Corpus v2 - https://nlds.soe.ucsc.edu/iac2
 * Argument Facet Similarity Corpus - https://nlds.soe.ucsc.edu/node/44
 * Smappdragon is a set of tools for working with twitter data - https://github.com/SMAPPNYU/smappdragon https://github.com/SMAPPNYU/pysmap
+* MultiLexNorm: A Shared Task on Multilingual Lexical Normalization - https://bitbucket.org/robvanderg/multilexnorm/src/master/
 
