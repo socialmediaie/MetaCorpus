@@ -246,7 +246,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * ParsTwiNER: Parsi Twitter NER - https://github.com/overfit-ir/parstwiner
 * MultiModal NER - https://github.com/RiTUAL-UH/multimodal_NER
 * DFKI MobIE Corpus (formerly "DAYSTREAM Corpus") - 3,232 German-language documents for NER - https://github.com/dfki-nlp/mobie
-
+* TwiCS: Microblog Entity Mention Detection with Multi-pass Lightweight Computations - https://github.com/dalakada/TwiCSv2/tree/master/data
 		
 ### Entity Linking	
 * 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
