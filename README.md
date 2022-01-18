@@ -107,7 +107,6 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Balancing information exposure in social networks - https://github.com/gvrkiran/BalancedExposure - https://users.ics.aalto.fi/kiran/BalanceExposure/
 * Online public shaming - https://zenodo.org/record/2587843#.XVrXzOhKh3g
 * Abusive behavior - https://zenodo.org/record/1216127#.XVriSehKh3g
-* RepLab 2013 (Entity-Oriented Summaries for Reputation Management) - http://nlp.uned.es/replab2013/ https://zenodo.org/record/2536801#.XVrin-hKh3g
 * GermEval offence evaluation task - https://projects.fzai.h-da.de/iggsa/projekt/	
 * GermEval-2018-Data - https://github.com/uds-lsv/GermEval-2018-Data * OffenseEval - https://competitions.codalab.org/competitions/20011
 * Frame Semantics Twitter (AAAI 2015) - https://bitbucket.org/lowlands/release/src/master/AAAI15/ (Paper: https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9349)
@@ -189,12 +188,13 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Sarcasm Detection based on User and Reader - https://github.com/bshmueli/SPIRS
 * Arabic Tweet Sentiment - https://github.com/komari6/Arabic-twitter-corpus-AJGT [Parsed format on Huggingface Dataset](https://huggingface.co/datasets/ajgt_twitter_ar)
 * Tweets Hate Speech Detection - https://huggingface.co/datasets/tweets_hate_speech_detection
-
+* TRACT: Tweets Reporting Abuse Classification Task Corpus - https://data.mendeley.com/datasets/my2vkfyffd/2
 
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
 * Roumors dataset - https://github.com/vahedq/rumors/tree/master/data
 * Twitter Stance re-annotated with emotion - http://www.romanklinger.de/ssec/
+* Twitter Titling Corpus (stance towards presidents) - https://heidata.uni-heidelberg.de/dataset.xhtml?persistentId=doi:10.11588/data/IOHXDF
 
 ### Tagging
 
@@ -314,11 +314,16 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 * Twitter4SSE (Co-QuoteTweet, Co-Reply) - https://github.com/marco-digio/Twitter4SSE
 
-
-### General
+### Summarization
 
 * Summarizing Tweets - https://github.com/cocoxu/twittersummarization
 * Disaster Tweet Summarization - https://github.com/krudra/disaster_summarizer_TWEB_2018
+* RepLab 2013 (Entity-Oriented Summaries for Reputation Management) - http://nlp.uned.es/replab2013/ https://zenodo.org/record/2536801#.XVrin-hKh3g
+
+
+### General
+
+* SocialLink is a publicly-available Linked Open Data dataset that matches social media accounts on Twitter to the corresponding entities in multiple language chapters of DBpedia - https://springernature.figshare.com/articles/dataset/ - [Github](https://github.com/Remper/sociallink)SocialLink_knowledge_transfer_between_social_media_and_linked_open_data/5235823/1
 * Tweets informing about resource needs and availabilities in post-disaster situation - https://zenodo.org/record/2649794#.X7vpaGhKh3g
 * Paraphrase identification - https://github.com/cocoxu/SemEval-PIT2015
 * URL base large scale paraphrase dataset - https://github.com/lanwuwei/Twitter-URL-Corpus
@@ -354,6 +359,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter Social Network [ASU] - https://www.kaggle.com/mathurinache/twitter-edge-nodes [Original Data](http://datasets.syr.edu/datasets/Twitter.html) [Other OSN network data](http://datasets.syr.edu/pages/datasets.html)
 
 ### Tools, Tips, and Tricks
+
 * General tricks on using the Twitter search API properly with custom filters - https://github.com/igorbrigadir/twitter-advanced-search
 * Important time stamps in history of Twitter - https://github.com/igorbrigadir/twitter-history
 * Twitter API v2 tutorial - https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research
@@ -369,6 +375,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 
 ### Unlabled topic specific data dumps
+
 * Covid-19 Twitter chatter dataset for scientific use - http://www.panacealab.org/covid19/ https://zenodo.org/record/3960911#.XyNW9vhKidY
 * Coronavirus Twitter Data: A collection of COVID-19 tweets with automated annotations - https://zenodo.org/record/3897727#.XyNY__hKidY
 * Full trump tweet archive - https://github.com/bpb27/trump_tweet_data_archive
