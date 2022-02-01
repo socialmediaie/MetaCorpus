@@ -189,6 +189,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Arabic Tweet Sentiment - https://github.com/komari6/Arabic-twitter-corpus-AJGT [Parsed format on Huggingface Dataset](https://huggingface.co/datasets/ajgt_twitter_ar)
 * Tweets Hate Speech Detection - https://huggingface.co/datasets/tweets_hate_speech_detection
 * TRACT: Tweets Reporting Abuse Classification Task Corpus - https://data.mendeley.com/datasets/my2vkfyffd/2
+* TM-Senti: large-scale, multilingual and longitudinal Twitter sentiment dataset sampled through distant supervision from the Twitter Stream Grab archive (2013 - 2020, 7 langs) - https://figshare.com/articles/dataset/TM-Senti/16438281
 
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
@@ -247,6 +248,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * MultiModal NER - https://github.com/RiTUAL-UH/multimodal_NER
 * DFKI MobIE Corpus (formerly "DAYSTREAM Corpus") - 3,232 German-language documents for NER - https://github.com/dfki-nlp/mobie
 * TwiCS: Microblog Entity Mention Detection with Multi-pass Lightweight Computations - https://github.com/dalakada/TwiCSv2/tree/master/data
+* Tweebank NER - https://github.com/social-machines/TweebankNLP
 		
 ### Entity Linking	
 * 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
@@ -357,6 +359,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * 40k full Twitter user profile data (including who they follow!) - https://www.kaggle.com/hwassner/TwitterFriends
 * Twitter User Demographics Prediction - https://www.kaggle.com/crowdflower/twitter-user-gender-classification
 * Twitter Social Network [ASU] - https://www.kaggle.com/mathurinache/twitter-edge-nodes [Original Data](http://datasets.syr.edu/datasets/Twitter.html) [Other OSN network data](http://datasets.syr.edu/pages/datasets.html)
+* Twitter event datasets (2012-2016, 30 events) - https://figshare.com/articles/dataset/Twitter_event_datasets_2012-2016_/5100460
+* SMILE Twitter Emotion - https://figshare.com/articles/dataset/smile_annotations_final_csv/3187909
 
 ### Tools, Tips, and Tricks
 
