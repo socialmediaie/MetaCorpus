@@ -190,6 +190,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Tweets Hate Speech Detection - https://huggingface.co/datasets/tweets_hate_speech_detection
 * TRACT: Tweets Reporting Abuse Classification Task Corpus - https://data.mendeley.com/datasets/my2vkfyffd/2
 * TM-Senti: large-scale, multilingual and longitudinal Twitter sentiment dataset sampled through distant supervision from the Twitter Stream Grab archive (2013 - 2020, 7 langs) - https://figshare.com/articles/dataset/TM-Senti/16438281
+* DynaSent: Dynamic Sentiment Analysis Dataset - https://github.com/cgpotts/dynasent
+* ICON2021 Shared Task on Multilingual Gender Biased and Communal Language Identification - https://competitions.codalab.org/competitions/35482
 
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
@@ -283,6 +285,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Augmented dataset of rumours and non-rumours for rumour detection - https://zenodo.org/record/3269768#.XyNe3fhKidY
 * Tweet Check-Worthiness - https://sites.google.com/view/clef2020-checkthat/tasks/tasks-1-5-check-worthiness?authuser=0
 * Profiling fake news spreaders on Twitter - https://pan.webis.de/clef20/pan20-web/author-profiling.html
+* Twitter Claim Detection from Online Content - https://github.com/LCS2-IIITD/LESA-EACL-2021
 
 
 ### Treebank and parsing	
@@ -361,6 +364,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter Social Network [ASU] - https://www.kaggle.com/mathurinache/twitter-edge-nodes [Original Data](http://datasets.syr.edu/datasets/Twitter.html) [Other OSN network data](http://datasets.syr.edu/pages/datasets.html)
 * Twitter event datasets (2012-2016, 30 events) - https://figshare.com/articles/dataset/Twitter_event_datasets_2012-2016_/5100460
 * SMILE Twitter Emotion - https://figshare.com/articles/dataset/smile_annotations_final_csv/3187909
+* Early Risk prediction from social media - https://erisk.irlab.org/
 
 ### Tools, Tips, and Tricks
 
@@ -368,6 +372,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Important time stamps in history of Twitter - https://github.com/igorbrigadir/twitter-history
 * Twitter API v2 tutorial - https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research
 * Twarc - https://github.com/DocNow/twarc/
+* Facepager - https://github.com/strohne/Facepager
 
 ### Embeddings
 
@@ -398,6 +403,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * FB English Hindi Aggresion Identification - https://sites.google.com/view/trac1/shared-task
 * FB News Page and Posts - https://bigquery.cloud.google.com/dataset/jbencina-144002:fb_news and https://github.com/jbencina/facebook-news/
 * MultiEmotion-It - Italian Multiemotion corpus - https://github.com/RacheleSprugnoli/Esercitazioni_SA/tree/master/dataset
+* Sinhala FB Decade Corpora https://github.com/LIRNEasia/FacebookDecadeCorpora
 
 
 ## Youtube:
@@ -465,6 +471,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 ## Whatsapp
 
 * ICWSM tutorial on collecting WhatsApp data - https://users.ics.aalto.fi/kiran/whatsapp-tutorial/
+* Tools for WhatsApp data collection - https://gvrkiran.github.io/whatsapp-tutorial/
 
 ## Delicious 
 
