@@ -65,7 +65,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Monthly twitter Archive by the Internet Archive team from 2012-2018 - https://archive.org/details/twitterstream?&sort=-date&page=1
 * [EmoContext](https://www.humanizing-ai.com/emocontext.html) dataset archived at Wayback Machine - [Train](https://web.archive.org/web/20190225030315/https://emocontext.blob.core.windows.net/data/starterkitdata.zip), [Dev](https://web.archive.org/web/20190225030352/https://emocontext.blob.core.windows.net/data/devsetwithlabels.zip), [Test](https://web.archive.org/web/20190225030419/https://emocontext.blob.core.windows.net/data/test.zip)
 * Multi target sentiment - https://github.com/bluemonk482/tdparse
-* [RumourEval 2019](https://competitions.codalab.org/competitions/19938#participate)
+* [RumourEval 2019](https://competitions.codalab.org/competitions/19938#participate) [Data](https://figshare.com/articles/dataset/RumourEval_2019_data/8845580)
 * [Sentiment, Emotion, Purpose, and Style in Electoral Tweets and Semantic Role Labeling of Emotions in Tweets](http://saifmohammad.com/WebDocs/ElectoralTweetsData.zip)
 * [Hashtag Emotion Corpus (aka Twitter Emotion Corpus, or TEC)](http://saifmohammad.com/WebDocs/Jan9-2012-tweets-clean.txt.zip)
 * List of sentiment corpora: https://www.w3.org/community/sentiment/wiki/Datasets
