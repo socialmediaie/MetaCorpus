@@ -201,7 +201,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 ### Tagging
 
-* Xlime - multi layered annotations in german, spanish and Italian - Sentiment, POS, NER - https://github.com/lrei/xlime_twitter_corpus
+* Xlime - multi layered annotations in german, spanish and Italian - Sentiment, POS, NER - https://github.com/lrei/xlime_twitter_corpus - https://www.clarin.si/repository/xmlui/handle/11356/1078
 * UD_Italian-PoSTWITA: Italian Tweet Universal Dependencies - https://github.com/UniversalDependencies/UD_Italian-PoSTWITA [Another version with more details](https://github.com/conllul/UL_Italian-PoSTWITA)
 * Ark POS tagging using user embedding as features - https://github.com/bmurali1994/socialnets_postagging
 * Ark POS tagged data with original tweet JSON - https://github.com/brendano/ark-tweet-nlp/tree/master/data/twpos-data-v0.3-original-tweets
