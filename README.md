@@ -416,6 +416,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * MultiEmotion-It - Italian Multiemotion corpus - https://github.com/RacheleSprugnoli/Esercitazioni_SA/tree/master/dataset
 * JTubeSpeech: Corpus of speech collected from YouTube - https://github.com/sarulab-speech/jtubespeech
 * Sentnob: Bengali Youtube Comments Sentiment Dataset - https://www.kaggle.com/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts
+* English YouTube Hate Speech Corpus - https://www.clarin.si/repository/xmlui/handle/11356/1454
+* Italian YouTube Hate Speech Corpus - https://www.clarin.si/repository/xmlui/handle/11356/1450
 
 
 ### General
