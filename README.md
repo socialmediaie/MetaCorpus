@@ -526,4 +526,5 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Argument Facet Similarity Corpus - https://nlds.soe.ucsc.edu/node/44
 * Smappdragon is a set of tools for working with twitter data - https://github.com/SMAPPNYU/smappdragon https://github.com/SMAPPNYU/pysmap
 * MultiLexNorm: A Shared Task on Multilingual Lexical Normalization - https://bitbucket.org/robvanderg/multilexnorm/src/master/
+* GDELT Social Media In the News - https://blog.gdeltproject.org/daily-updates-to-master-list-of-social-media-in-the-news-in-csv-and-bigquery/ and https://blog.gdeltproject.org/compiling-a-master-list-of-social-media-in-the-news-2016-2019/
 
