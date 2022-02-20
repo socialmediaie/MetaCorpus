@@ -251,6 +251,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * DFKI MobIE Corpus (formerly "DAYSTREAM Corpus") - 3,232 German-language documents for NER - https://github.com/dfki-nlp/mobie
 * TwiCS: Microblog Entity Mention Detection with Multi-pass Lightweight Computations - https://github.com/dalakada/TwiCSv2/tree/master/data
 * Tweebank NER - https://github.com/social-machines/TweebankNLP
+* Information Extractor for Conversational Systems in Indian Languages (IECSIL, NER + REL, Hindi, Tamil, Malayalam, Telugu and Kannada)- https://github.com/BarathiGanesh-HB/ARNEKT-IECSIL [Password=arnekt@iecsil2018](https://github.com/BarathiGanesh-HB/ARNEKT-IECSIL/issues/2#event-6105560970)
 		
 ### Entity Linking	
 * 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
