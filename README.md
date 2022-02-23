@@ -459,6 +459,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 * The Gab Hate Corpus - https://osf.io/edua3/
 * Hateful user dataset - https://zenodo.org/record/5140191#.YQBGhI4zY2w [Source](https://github.com/hate-alert/Hateful-users-detection)
+* Abuse Detection, Severity and Target Prediction for Gab Posts - https://github.com/mohit3011/AbuseAnalyzer
 
 ### Summarization
 
