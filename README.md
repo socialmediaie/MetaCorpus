@@ -192,6 +192,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * TM-Senti: large-scale, multilingual and longitudinal Twitter sentiment dataset sampled through distant supervision from the Twitter Stream Grab archive (2013 - 2020, 7 langs) - https://figshare.com/articles/dataset/TM-Senti/16438281
 * DynaSent: Dynamic Sentiment Analysis Dataset - https://github.com/cgpotts/dynasent
 * ICON2021 Shared Task on Multilingual Gender Biased and Communal Language Identification - https://competitions.codalab.org/competitions/35482
+* Danish political stance dataset - https://figshare.com/articles/dataset/Danish_political_stance_dataset/12382592
+* COMRADES Crowdsourced Informativeness Dataset (CCSID) - https://figshare.com/articles/dataset/COMRADES_Crowdsourced_Informativeness_Datased_CCSID_/5787693
 
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
@@ -253,6 +255,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Tweebank NER - https://github.com/social-machines/TweebankNLP
 * Information Extractor for Conversational Systems in Indian Languages (IECSIL, NER + REL, Hindi, Tamil, Malayalam, Telugu and Kannada)- https://github.com/BarathiGanesh-HB/ARNEKT-IECSIL [Password=arnekt@iecsil2018](https://github.com/BarathiGanesh-HB/ARNEKT-IECSIL/issues/2#event-6105560970)
 * Hashtag Segmentation Dataset - https://github.com/prashantkodali/HashSet
+* Sentiment Scopes for Entity-Level Sentiment Analysis [en, es] - https://github.com/leodotnet/sentimentscope
 		
 ### Entity Linking	
 * 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
@@ -288,6 +291,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Tweet Check-Worthiness - https://sites.google.com/view/clef2020-checkthat/tasks/tasks-1-5-check-worthiness?authuser=0
 * Profiling fake news spreaders on Twitter - https://pan.webis.de/clef20/pan20-web/author-profiling.html
 * Twitter Claim Detection from Online Content - https://github.com/LCS2-IIITD/LESA-EACL-2021
+* Twitter Death Hoaxes dataset - https://figshare.com/articles/dataset/Twitter_Death_Hoaxes_dataset/5688811
 
 
 ### Treebank and parsing	
@@ -326,6 +330,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Summarizing Tweets - https://github.com/cocoxu/twittersummarization
 * Disaster Tweet Summarization - https://github.com/krudra/disaster_summarizer_TWEB_2018
 * RepLab 2013 (Entity-Oriented Summaries for Reputation Management) - http://nlp.uned.es/replab2013/ https://zenodo.org/record/2536801#.XVrin-hKh3g
+* ISSumSet: A Tweet Summarization Dataset Hidden in a TREC Track - https://github.com/AlexisDusart/ISSumSet
+* Capitalizing on a TREC Track to Build a Tweet Summarization Dataset - https://github.com/AlexisDusart/SetSummTweet
+* TES 2012-2016 tweet summary using Wikipedia Current Event portal - https://github.com/AlexisDusart/TSSuBERT/tree/main/TES%202012-2016
+* Twitter event datasets (2012-2016, 30 events) - https://figshare.com/articles/dataset/Twitter_event_datasets_2012-2016_/5100460
 
 
 ### General
@@ -519,6 +527,11 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Weibo User Depression Detection Dataset - https://github.com/aidenwang9867/Weibo-User-Depession-Detection-Dataset
 * ClipShots: large-scale dataset for shot boundary detection collected from Youtube and Weibo covering more than 20 categories - https://github.com/Tangshitao/ClipShots
 * Multimodal entity linking (MEL) - https://github.com/seukgcode/MELBench
+
+## SMS
+
+* SMS Noun Phrase Detection - https://github.com/statnlp-research/statnlp-datasets/blob/master/dataset/SMSNP_data.zip
+
 
 ## General
 
