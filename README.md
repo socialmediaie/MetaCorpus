@@ -421,6 +421,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * English YouTube Hate Speech Corpus - https://www.clarin.si/repository/xmlui/handle/11356/1454
 * Italian YouTube Hate Speech Corpus - https://www.clarin.si/repository/xmlui/handle/11356/1450
 
+### Videos
+
+* ClipShots: large-scale dataset for shot boundary detection collected from Youtube and Weibo covering more than 20 categories - https://github.com/Tangshitao/ClipShots
+
 
 ### General
 
@@ -506,6 +510,15 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * User Engagement in Online Discussions - https://github.com/julian-risch/ICWSM2020
 * Top Comment or Flop Comment? Predicting and Explaining User Engagement in Online News Discussions - https://github.com/julian-risch/ICWSM2020
 
+
+# Weibo
+
+* Weibo-Douban user alignment across networks - https://github.com/ChenBaiyang/MAUIL
+* Continuously updated Sina Weibo Public Opinion Datasets (only for research) - https://github.com/nghuyong/weibo-public-opinion-datasets
+* Tencent Weibo (following network) - https://github.com/dedekinds/Graph-Embedding
+* Weibo User Depression Detection Dataset - https://github.com/aidenwang9867/Weibo-User-Depession-Detection-Dataset
+* ClipShots: large-scale dataset for shot boundary detection collected from Youtube and Weibo covering more than 20 categories - https://github.com/Tangshitao/ClipShots
+* Multimodal entity linking (MEL) - https://github.com/seukgcode/MELBench
 
 ## General
 
