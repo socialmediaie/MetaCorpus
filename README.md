@@ -445,6 +445,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Self-annotated sarcasm corpora - http://nlp.cs.princeton.edu/SARC/2.0/ [Paper](https://www.aclweb.org/anthology/papers/L/L18/L18-1102/)
 * Conversational data - https://github.com/PolyAI-LDN/conversational-datasets
 * GoEmotions: A Dataset of Fine-Grained Emotions - https://github.com/google-research/google-research/tree/master/goemotions
+* Reddit Wallstreetbets Support and Intent Annotated Dataset 2021 - https://zenodo.org/record/5851847#%23.YeO_vhPML8E
 
 ### Summarization
 
