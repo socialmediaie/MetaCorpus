@@ -195,6 +195,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Danish political stance dataset - https://figshare.com/articles/dataset/Danish_political_stance_dataset/12382592
 * COMRADES Crowdsourced Informativeness Dataset (CCSID) - https://figshare.com/articles/dataset/COMRADES_Crowdsourced_Informativeness_Datased_CCSID_/5787693
 * Hate Speech Dataset - https://github.com/Mainack/hatespeech-data-HT-2017
+* Estimating Ideological Positions with Twitter Data - https://github.com/pablobarbera/twitter_ideology
 
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
