@@ -452,6 +452,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Conversational data - https://github.com/PolyAI-LDN/conversational-datasets
 * GoEmotions: A Dataset of Fine-Grained Emotions - https://github.com/google-research/google-research/tree/master/goemotions
 * Reddit Wallstreetbets Support and Intent Annotated Dataset 2021 - https://zenodo.org/record/5851847#%23.YeO_vhPML8E
+* CL-Aff Shared Task: Get it #OffMyChest affective understanding of conversations - https://github.com/kj2013/claff-offmychest
 
 ### Summarization
 
