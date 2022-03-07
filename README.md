@@ -194,6 +194,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * ICON2021 Shared Task on Multilingual Gender Biased and Communal Language Identification - https://competitions.codalab.org/competitions/35482
 * Danish political stance dataset - https://figshare.com/articles/dataset/Danish_political_stance_dataset/12382592
 * COMRADES Crowdsourced Informativeness Dataset (CCSID) - https://figshare.com/articles/dataset/COMRADES_Crowdsourced_Informativeness_Datased_CCSID_/5787693
+* Hate Speech Dataset - https://github.com/Mainack/hatespeech-data-HT-2017
 
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
@@ -209,6 +210,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Ark POS tagged data with original tweet JSON - https://github.com/brendano/ark-tweet-nlp/tree/master/data/twpos-data-v0.3-original-tweets
 * Multiple twitter datasets from IIIT Delhi (includes details on Indian political candidates, code switched POS and NER) - http://precog.iiitd.edu.in/resources.html
 * Italian Tweet Named Entity Linking - https://github.com/swapUniba/neel-it-twitter
+* Italian Twitter datasets for NER, POS, Supersense tagging: http://www.evalita.it/ 
 * NEEL Microposts challenge - http://microposts2016.seas.upenn.edu/
 * Yodie corpora: https://gate.ac.uk/applications/yodie.html
 * English web text - https://github.com/UniversalDependencies/UD_English-EWT
@@ -375,6 +377,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter event datasets (2012-2016, 30 events) - https://figshare.com/articles/dataset/Twitter_event_datasets_2012-2016_/5100460
 * SMILE Twitter Emotion - https://figshare.com/articles/dataset/smile_annotations_final_csv/3187909
 * Early Risk prediction from social media - https://erisk.irlab.org/
+* MediaEval 2020: Various datasets for media evaluation includes Fake News tweet data - https://multimediaeval.github.io/editions/2020/
+* Smappdragon is a set of tools for working with twitter data - https://github.com/SMAPPNYU/smappdragon https://github.com/SMAPPNYU/pysmap
+* MultiLexNorm: A Shared Task on Multilingual Lexical Normalization - https://bitbucket.org/robvanderg/multilexnorm/src/master/
+
 
 ### Tools, Tips, and Tricks
 
@@ -490,6 +496,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 * ICWSM tutorial on collecting WhatsApp data - https://users.ics.aalto.fi/kiran/whatsapp-tutorial/
 * Tools for WhatsApp data collection - https://gvrkiran.github.io/whatsapp-tutorial/
+* WhatsApp group data: https://dataverse.mpi-sws.org/dataset.xhtml?persistentId=doi:10.5072/FK2/CS7U5P
 
 ## Delicious 
 
@@ -506,13 +513,13 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Social Media Prediction Challenge - http://smp-challenge.com/
 
 
-# Conversations
+## Conversations
 
 * Multiple conversation datasets - https://convokit.cornell.edu/
 * Yahoo News Annotated Comments Corpus  - https://github.com/cnap/ynacc
 * Multi-Domain Wizard-of-Oz dataset (MultiWOZ), a fully-labeled collection of human-human written conversations spanning over multiple domains and topics - https://github.com/budzianowski/multiwoz
 
-# News Comments
+## News Comments
 
 * A Dataset of Journalists' Interactions with Their Readership: When Should Article Authors Reply to Reader Comments?
  - https://github.com/julian-risch/CIKM2020/
@@ -520,7 +527,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Top Comment or Flop Comment? Predicting and Explaining User Engagement in Online News Discussions - https://github.com/julian-risch/ICWSM2020
 
 
-# Weibo
+## Weibo
 
 * Weibo-Douban user alignment across networks - https://github.com/ChenBaiyang/MAUIL
 * Continuously updated Sina Weibo Public Opinion Datasets (only for research) - https://github.com/nghuyong/weibo-public-opinion-datasets
@@ -528,6 +535,16 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Weibo User Depression Detection Dataset - https://github.com/aidenwang9867/Weibo-User-Depession-Detection-Dataset
 * ClipShots: large-scale dataset for shot boundary detection collected from Youtube and Weibo covering more than 20 categories - https://github.com/Tangshitao/ClipShots
 * Multimodal entity linking (MEL) - https://github.com/seukgcode/MELBench
+* Multilingual EN, JA, ZH Covid Weibo data - https://github.com/sociocom/covid19_dataset
+* Social Media Keyphrase Generation - https://github.com/yuewang-cuhk/TAKG
+
+
+## Whisper
+
+* Whisper dataset - https://github.com/Mainack/whisper-2014-2016-data-HT-2020
+* Hate Speech dataset - https://github.com/Mainack/hatespeech-data-HT-2017
+
+
 
 ## SMS
 
@@ -538,23 +555,16 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 * Pheme project: https://www.pheme.eu/software-downloads/
 * Many pheme related datasets: https://figshare.com/authors/Arkaitz_Zubiaga/1376367
-* WhatsApp group data: https://dataverse.mpi-sws.org/dataset.xhtml?persistentId=doi:10.5072/FK2/CS7U5P
-* Italian Twitter datasets for NER, POS, Supersense tagging: http://www.evalita.it/
 * Hatespeech term database: https://hatebase.org
 * Hatespeech lexicons: http://hatespeech.di.unito.it/resources.html
 * https://github.com/sebastianruder/NLP-progress
 * 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/
-* https://github.com/juand-r/entity-recognition-datasets
-* Social Media Keyphrase Generation - https://github.com/yuewang-cuhk/TAKG	
+* https://github.com/juand-r/entity-recognition-datasets	
 * Hashtag generation corpus - https://github.com/yuewang-cuhk/HashtagGeneration
 * Klout FB and Twitter user reaction timestamps - https://github.com/klout/opendata/blob/master/when_to_post/README.md
 * GSCL Shared Task: Automatic Linguistic Annotation of Computer-Mediated Communication / Social Media (POS and tokenization) https://sites.google.com/site/empirist2015/
-* MediaEval 2020: Various datasets for media evaluation includes Fake News tweet data - https://multimediaeval.github.io/editions/2020/
-* Multilingual EN, JA, ZH Covid Weibo data - https://github.com/sociocom/covid19_dataset
 * Matching identities across social media platforms - http://lig-membres.imag.fr/gogao/data.html
 * Internet Argument Corpus v2 - https://nlds.soe.ucsc.edu/iac2
 * Argument Facet Similarity Corpus - https://nlds.soe.ucsc.edu/node/44
-* Smappdragon is a set of tools for working with twitter data - https://github.com/SMAPPNYU/smappdragon https://github.com/SMAPPNYU/pysmap
-* MultiLexNorm: A Shared Task on Multilingual Lexical Normalization - https://bitbucket.org/robvanderg/multilexnorm/src/master/
 * GDELT Social Media In the News - https://blog.gdeltproject.org/daily-updates-to-master-list-of-social-media-in-the-news-in-csv-and-bigquery/ and https://blog.gdeltproject.org/compiling-a-master-list-of-social-media-in-the-news-2016-2019/
 
