@@ -16,20 +16,27 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
     + [Conversations](#conversations)
     + [Information Retrieval](#information-retrieval)
     + [Multimodal](#multimodal)
+    + [Sentence Similarity](#sentence-similarity)
+    + [Summarization](#summarization)
     + [General](#general)
-    + [Tips and Tricks](#tips-and-tricks)
+    + [Tools, Tips, and Tricks](#tools--tips--and-tricks)
     + [Embeddings](#embeddings)
     + [Unlabled topic specific data dumps](#unlabled-topic-specific-data-dumps)
   * [Facebook](#facebook)
     + [Classification](#classification-1)
   * [Youtube:](#youtube-)
     + [Classification](#classification-2)
+    + [Videos](#videos)
+    + [General](#general-1)
   * [Reddit](#reddit)
     + [Classification](#classification-3)
+    + [Summarization](#summarization-1)
     + [Sequence Tagging](#sequence-tagging)
     + [Named Entitis](#named-entitis)
+    + [Conversations](#conversations-1)
+    + [Tools](#tools)
   * [Gab](#gab)
-    + [Summarization](#summarization)
+    + [Summarization](#summarization-2)
     + [Amazon](#amazon)
   * [About.me](#aboutme)
   * [Whatsapp](#whatsapp)
@@ -37,11 +44,15 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
   * [Ask.fm](#askfm)
   * [Flickr](#flickr)
     + [Popularity prediction](#popularity-prediction)
-- [Conversations](#conversations-1)
-- [News Comments](#news-comments)
-  * [General](#general-1)
+  * [Conversations](#conversations-2)
+  * [News Comments](#news-comments)
+  * [Weibo](#weibo)
+  * [Whisper](#whisper)
+  * [SMS](#sms)
+  * [General](#general-2)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 ## Twitter
@@ -387,6 +398,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 * General tricks on using the Twitter search API properly with custom filters - https://github.com/igorbrigadir/twitter-advanced-search
 * Important time stamps in history of Twitter - https://github.com/igorbrigadir/twitter-history
+* TweetedAt timestampt from tweet ID - https://github.com/oduwsdl/tweetedat
 * Twitter API v2 tutorial - https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research
 * Twarc - https://github.com/DocNow/twarc/
 * Facepager - https://github.com/strohne/Facepager
