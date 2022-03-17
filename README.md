@@ -584,4 +584,5 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * GDELT Social Media In the News - https://blog.gdeltproject.org/daily-updates-to-master-list-of-social-media-in-the-news-in-csv-and-bigquery/ and https://blog.gdeltproject.org/compiling-a-master-list-of-social-media-in-the-news-2016-2019/
 * WKWSCI Sentiment Lexicon v1.1 - https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/DWWEBV
 * Voat.co dataset - https://zenodo.org/record/5841668
+* The MeLa BitChute Dataset - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRD1VS
 
