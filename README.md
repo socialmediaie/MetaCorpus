@@ -402,6 +402,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter API v2 tutorial - https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research
 * Twarc - https://github.com/DocNow/twarc/
 * Facepager - https://github.com/strohne/Facepager
+* Official Twitter Bulk Dataset downloader for Academic Use cases - https://developer.twitter.com/apitools/downloader
 
 ### Embeddings
 
