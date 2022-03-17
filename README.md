@@ -393,6 +393,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Smappdragon is a set of tools for working with twitter data - https://github.com/SMAPPNYU/smappdragon https://github.com/SMAPPNYU/pysmap
 * MultiLexNorm: A Shared Task on Multilingual Lexical Normalization - https://bitbucket.org/robvanderg/multilexnorm/src/master/
 * Ukraine and Russia Conflict Tweet IDs - https://github.com/echen102/ukraine-russia
+* NELA-GT-2021: A Large Multi-Labelled News Dataset for The Study of Misinformation in News Articles (contains tweets embedded in news articles) - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RBKVBM
 
 
 ### Tools, Tips, and Tricks
