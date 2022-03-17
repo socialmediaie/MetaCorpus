@@ -392,6 +392,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * MediaEval 2020: Various datasets for media evaluation includes Fake News tweet data - https://multimediaeval.github.io/editions/2020/
 * Smappdragon is a set of tools for working with twitter data - https://github.com/SMAPPNYU/smappdragon https://github.com/SMAPPNYU/pysmap
 * MultiLexNorm: A Shared Task on Multilingual Lexical Normalization - https://bitbucket.org/robvanderg/multilexnorm/src/master/
+* Ukraine and Russia Conflict Tweet IDs - https://github.com/echen102/ukraine-russia
 
 
 ### Tools, Tips, and Tricks
