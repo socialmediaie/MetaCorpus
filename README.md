@@ -586,4 +586,5 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * WKWSCI Sentiment Lexicon v1.1 - https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/DWWEBV
 * Voat.co dataset - https://zenodo.org/record/5841668
 * The MeLa BitChute Dataset - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRD1VS
+* Effect of Popularity Shocks on User Behavior - https://zenodo.org/record/5854980#.YjgJAi8RoTs
 
