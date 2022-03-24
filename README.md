@@ -285,6 +285,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * WSDM 2012 - https://github.com/dice-group/gerbil/issues/46#issuecomment-257821253 - https://edgar.meij.pro/dataset-adding-semantics-microblog-posts/?utm_source=bit.ly&utm_medium=linked&utm_campaign=myblog
 * Multimodal Entity Linking in Tweets - https://github.com/OA256864/MEL_Tweets
 * MobIE: A German Dataset for Named Entity Recognition, Entity Linking and Relation Extraction in the Mobility Domain - https://github.com/dfki-nlp/mobie
+* DFKI Product Corpus - 174 English web pages and social media posts annotated for product and company named entities, and the relation CompanyProvidesProduct: https://github.com/DFKI-NLP/product-corpus
 
 
 ### Machine Translation
