@@ -271,6 +271,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Hashtag Segmentation Dataset - https://github.com/prashantkodali/HashSet
 * Sentiment Scopes for Entity-Level Sentiment Analysis [en, es] - https://github.com/leodotnet/sentimentscope
 * MobIE: A German Dataset for Named Entity Recognition, Entity Linking and Relation Extraction in the Mobility Domain - https://github.com/dfki-nlp/mobie
+* DFKI Product Corpus - 174 English web pages and social media posts annotated for product and company named entities, and the relation CompanyProvidesProduct: https://github.com/DFKI-NLP/product-corpus
+* DFKI SmartData Corpus, a dataset of 2598 German-language documents which has been annotated with fine-grained geo-entities, such as streets, stops and routes, as well as standard named entity types - https://github.com/DFKI-NLP/smartdata-corpus
 		
 ### Entity Linking	
 * 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
@@ -285,7 +287,6 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * WSDM 2012 - https://github.com/dice-group/gerbil/issues/46#issuecomment-257821253 - https://edgar.meij.pro/dataset-adding-semantics-microblog-posts/?utm_source=bit.ly&utm_medium=linked&utm_campaign=myblog
 * Multimodal Entity Linking in Tweets - https://github.com/OA256864/MEL_Tweets
 * MobIE: A German Dataset for Named Entity Recognition, Entity Linking and Relation Extraction in the Mobility Domain - https://github.com/dfki-nlp/mobie
-* DFKI Product Corpus - 174 English web pages and social media posts annotated for product and company named entities, and the relation CompanyProvidesProduct: https://github.com/DFKI-NLP/product-corpus
 
 
 ### Machine Translation
