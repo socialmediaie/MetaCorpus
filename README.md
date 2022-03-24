@@ -270,6 +270,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Information Extractor for Conversational Systems in Indian Languages (IECSIL, NER + REL, Hindi, Tamil, Malayalam, Telugu and Kannada)- https://github.com/BarathiGanesh-HB/ARNEKT-IECSIL [Password=arnekt@iecsil2018](https://github.com/BarathiGanesh-HB/ARNEKT-IECSIL/issues/2#event-6105560970)
 * Hashtag Segmentation Dataset - https://github.com/prashantkodali/HashSet
 * Sentiment Scopes for Entity-Level Sentiment Analysis [en, es] - https://github.com/leodotnet/sentimentscope
+* MobIE: A German Dataset for Named Entity Recognition, Entity Linking and Relation Extraction in the Mobility Domain - https://github.com/dfki-nlp/mobie
 		
 ### Entity Linking	
 * 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
@@ -283,6 +284,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter NEED - https://github.com/badiehm/TwitterNEED
 * WSDM 2012 - https://github.com/dice-group/gerbil/issues/46#issuecomment-257821253 - https://edgar.meij.pro/dataset-adding-semantics-microblog-posts/?utm_source=bit.ly&utm_medium=linked&utm_campaign=myblog
 * Multimodal Entity Linking in Tweets - https://github.com/OA256864/MEL_Tweets
+* MobIE: A German Dataset for Named Entity Recognition, Entity Linking and Relation Extraction in the Mobility Domain - https://github.com/dfki-nlp/mobie
 
 
 ### Machine Translation
