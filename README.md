@@ -409,6 +409,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twarc - https://github.com/DocNow/twarc/
 * Facepager - https://github.com/strohne/Facepager
 * Official Twitter Bulk Dataset downloader for Academic Use cases - https://developer.twitter.com/apitools/downloader
+* Processing Tweets - https://colab.research.google.com/drive/1Uoog-scrKhLX3QZmrs1ClxCFdGIMH88i?usp=sharing#scrollTo=PmPc5qiIW6Fa
+* Ekphrasis is a text processing tool - https://github.com/cbaziotis/ekphrasis
+* SocialMediaIE - https://github.com/socialmediaie/SocialMediaIE
+* TwitterNER - https://github.com/napsternxg/TwitterNER
 
 ### Embeddings
 
