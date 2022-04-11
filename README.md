@@ -213,6 +213,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Roumors dataset - https://github.com/vahedq/rumors/tree/master/data
 * Twitter Stance re-annotated with emotion - http://www.romanklinger.de/ssec/
 * Twitter Titling Corpus (stance towards presidents) - https://heidata.uni-heidelberg.de/dataset.xhtml?persistentId=doi:10.11588/data/IOHXDF
+* Stance and Gender Detection in Tweets on Catalan Independence@Ibereval 2017 - https://stel.ub.edu/Stance-IberEval2017/
 
 ### Tagging
 
