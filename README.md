@@ -288,6 +288,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * WSDM 2012 - https://github.com/dice-group/gerbil/issues/46#issuecomment-257821253 - https://edgar.meij.pro/dataset-adding-semantics-microblog-posts/?utm_source=bit.ly&utm_medium=linked&utm_campaign=myblog
 * Multimodal Entity Linking in Tweets - https://github.com/OA256864/MEL_Tweets
 * MobIE: A German Dataset for Named Entity Recognition, Entity Linking and Relation Extraction in the Mobility Domain - https://github.com/dfki-nlp/mobie
+* Twitter Multimodal Entity Linking using user mentions - https://github.com/seukgcode/MEL-GHMFC/tree/main/datasets/Twitter-MEL
 
 
 ### Machine Translation
@@ -478,6 +479,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * GoEmotions: A Dataset of Fine-Grained Emotions - https://github.com/google-research/google-research/tree/master/goemotions
 * Reddit Wallstreetbets Support and Intent Annotated Dataset 2021 - https://zenodo.org/record/5851847#%23.YeO_vhPML8E
 * CL-Aff Shared Task: Get it #OffMyChest affective understanding of conversations - https://github.com/kj2013/claff-offmychest
+* Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions - https://github.com/LittlePea13/UsVsThem
 
 ### Summarization
 
@@ -563,7 +565,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Multimodal entity linking (MEL) - https://github.com/seukgcode/MELBench
 * Multilingual EN, JA, ZH Covid Weibo data - https://github.com/sociocom/covid19_dataset
 * Social Media Keyphrase Generation - https://github.com/yuewang-cuhk/TAKG
-
+* MELBench - Multimudal Entity Linking - https://github.com/seukgcode/MELBench
 
 ## Whisper
 
