@@ -237,6 +237,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Lowlands Cost-sensitive POS tagging data - https://bitbucket.org/lowlands/costsensitive-data/src/master/
 * Entity Profiling in Microblog Posts (Aspect phrases and Opinion Targets) - http://nlp.uned.es/~damiano/datasets/entityProfiling_ORM_Twitter.html
 * Twitter Domain Adapted POS dataset - https://github.com/guitaowufeng/TPANN/tree/master/data
+* Clickbait spotting and spoling - https://webis.de/data/webis-clickbait-22.html https://webis.de/data/webis-clickbait-17.html https://webis.de/data/webis-clickbait-16.html
 
 #### NER datasets
 
