@@ -493,6 +493,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 ### Named Entitis
 
 * Entity Linking dataset - https://zenodo.org/record/3970806
+* GUMReddit (Entity Linking, NER, etc) - https://github.com/universalDependencies/UD_English-GUMReddit/
 
 ### Conversations
 
