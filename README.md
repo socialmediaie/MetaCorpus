@@ -248,6 +248,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Hindi English code-mixed - https://github.com/SilentFlame/Named-Entity-Recognition
 * Densely annotated Wikipedia - https://github.com/klout/opendata/tree/master/wiki_annotation
 * Spanish English and Arabic Egyptian - https://code-switching.github.io/2018/#shared-task-id
+* SocialDisNER corpus: gold standard annotations for detection of disease mentions in Spanish tweets - https://zenodo.org/record/6773099
+* ProfNER corpus: gold standard annotations for profession detection in Spanish COVID-19 tweets - https://zenodo.org/record/4563995
 * Many code-switched - http://emnlp2014.org/workshops/CodeSwitch/call.html
 * Croatian - https://www.clarin.si/repository/xmlui/handle/11356/1241
 * Serbian - https://www.clarin.si/repository/xmlui/handle/11356/1240
@@ -278,7 +280,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 		
 ### Entity Linking	
 * 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
-* NEEL Microposts challenge - http://microposts2016.seas.upenn.edu/	
+* NEEL Microposts challenge - http://microposts2016.seas.upenn.edu/
 * Yodie corpora: https://gate.ac.uk/applications/yodie.html	
 * https://github.com/juand-r/entity-recognition-datasets
 * Sense disambiguation/Entity Linking - https://github.com/lunafeng/ELTDS
@@ -313,6 +315,11 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Profiling fake news spreaders on Twitter - https://pan.webis.de/clef20/pan20-web/author-profiling.html
 * Twitter Claim Detection from Online Content - https://github.com/LCS2-IIITD/LESA-EACL-2021
 * Twitter Death Hoaxes dataset - https://figshare.com/articles/dataset/Twitter_Death_Hoaxes_dataset/5688811
+
+### Fact Checking
+
+* On the Role of Images for Analyzing Claims in Social Media - https://zenodo.org/record/4592249
+* 
 
 
 ### Treebank and parsing	
@@ -401,6 +408,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * MultiLexNorm: A Shared Task on Multilingual Lexical Normalization - https://bitbucket.org/robvanderg/multilexnorm/src/master/
 * Ukraine and Russia Conflict Tweet IDs - https://github.com/echen102/ukraine-russia
 * NELA-GT-2021: A Large Multi-Labelled News Dataset for The Study of Misinformation in News Articles (contains tweets embedded in news articles) - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RBKVBM
+* Information Seeking in Academic Conferences - https://zenodo.org/record/819537
 
 
 ### Tools, Tips, and Tricks
