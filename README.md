@@ -207,6 +207,9 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * COMRADES Crowdsourced Informativeness Dataset (CCSID) - https://figshare.com/articles/dataset/COMRADES_Crowdsourced_Informativeness_Datased_CCSID_/5787693
 * Hate Speech Dataset - https://github.com/Mainack/hatespeech-data-HT-2017
 * Estimating Ideological Positions with Twitter Data - https://github.com/pablobarbera/twitter_ideology
+* SemEval-2018 task 3 - Irony detection in English tweets - https://competitions.codalab.org/competitions/17468 - Data Download - https://github.com/Cyvhee/SemEval2018-Task3
+* SemEval-2018 Task 1: Affect in Tweets (AIT-2018) - https://competitions.codalab.org/competitions/17751 - Data Download - http://saifmohammad.com/WebDocs/AIT-2018/AIT2018-DATA/SemEval2018-Task1-all-data.zip
+* SemEval 2022 - Task 6 (iSarcasmEval) : Intended Sarcasm Detection In English and Arabic - https://github.com/iabufarha/iSarcasmEval
 
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
@@ -608,4 +611,5 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Voat.co dataset - https://zenodo.org/record/5841668
 * The MeLa BitChute Dataset - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRD1VS
 * Effect of Popularity Shocks on User Behavior - https://zenodo.org/record/5854980#.YjgJAi8RoTs
+* SemEval-2022 Shared Task 10: Structured Sentiment Analysis - https://github.com/jerbarnes/semeval22_structured_sentiment
 
