@@ -132,10 +132,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Weibo and Twitter data with 5,000 claims that scale to five million relevant microblog posts available at: http://alt.qcri.org/~wgao/data/rumdect.zip [Paper](https://www.ijcai.org/Proceedings/16/Papers/537.pdf)
 * Open domain targeted sentiment - https://web.archive.org/web/20200427155239/http://www.m-mitchell.com/code/
 * Tweet span sentiment identification - http://alt.qcri.org/semeval2014/task9/index.php?id=data-and-tools
-* Tweet stance detection - https://github.com/kennyjoseph/constance
 * Twitter Stereotype Extraction - https://github.com/kennyjoseph/twitter_stereotype_extraction
 * [Twitter Identity Extraction](https://github.com/kennyjoseph/identity_extraction_pub/tree/master/python/processed_data)
-* SemEval 2016 Task 6: Detecting Stance in Tweets - http://alt.qcri.org/semeval2016/task6/
 * Political Parody (politican tweets and their parody tweets) - https://archive.org/details/parody_data_acl20
 * Italian Twitter Corpus of Hate Speech - https://github.com/msang/hate-speech-corpus
 * TRAC 2020 Multilingual Annotated Corpus of Misogyny and Aggression - https://sites.google.com/view/trac2/shared-task?authuser=0 - [drive](https://drive.google.com/open?id=1MRRWK1t6gO-VoS0TevNK5fFl_dtZHJ_A)
@@ -162,11 +160,9 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter Sentence Specificity - https://github.com/wjko2/Domain-Agnostic-Sentence-Specificity-Prediction/tree/master/dataset/data
 * Sarcasm Detection (Shared Task 2nd FigLang Workshop at ACL 2020) - https://github.com/EducationalTestingService/sarcasm
 * Webis Clickbait Corpus 2017 - https://webis.de/data/webis-clickbait-17
-* Entity Linking in Tweets for Book and Movie domain - https://github.com/sujanucsc/IEL-Twitter
 * Tweet Wikipedia Entity Prediction - https://github.com/lunafeng/ELTDS
 * Twitter data annotated with topic labels - http://www.site.uottawa.ca/~diana/resources/
 * Twitter data with annotated location expressions at city, state/province, and country level - http://www.site.uottawa.ca/~diana/resources/
-* Twitter data annotated with stance toward multipe targets - http://www.site.uottawa.ca/~diana/resources/
 * Language specificity in Tweets - https://github.com/cs329yangzhong/specificityTwitter
 * Geolocation prediction from text - https://archive.org/details/twitter_cikm_2010
 * Social Bias Inference Corpus (SBIC) contains 150k structured annotations of social media posts - https://homes.cs.washington.edu/~msap/social-bias-frames/
@@ -179,7 +175,6 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Hinglish Spanglish Code-Mixed Tweet Sentiment - https://ritual-uh.github.io/sentimix2020/res
 * Manually annotated Arabic Sentiment data - https://github.com/motazsaad/arabic-sentiment-analysis
 * Semeval 2017 English Arabic Sentiment data - https://alt.qcri.org/semeval2017/task4/index.php?id=results
-* Italian tweets Named Entity Linking - https://github.com/evalita2016/data
 * Italian tweets factual annotation - https://github.com/evalita2016/data
 * Tweet Image to Emoji dataset (4M) - https://www.cs.utexas.edu/~ziad/emoji_visual_sentiment.html
 * Visual Public Emotions dataset - https://github.com/cvlab-stonybrook/Emotion-Prediction/tree/master/main/PublicEmotionDatasets
@@ -203,7 +198,6 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * TM-Senti: large-scale, multilingual and longitudinal Twitter sentiment dataset sampled through distant supervision from the Twitter Stream Grab archive (2013 - 2020, 7 langs) - https://figshare.com/articles/dataset/TM-Senti/16438281
 * DynaSent: Dynamic Sentiment Analysis Dataset - https://github.com/cgpotts/dynasent
 * ICON2021 Shared Task on Multilingual Gender Biased and Communal Language Identification - https://competitions.codalab.org/competitions/35482
-* Danish political stance dataset - https://figshare.com/articles/dataset/Danish_political_stance_dataset/12382592
 * COMRADES Crowdsourced Informativeness Dataset (CCSID) - https://figshare.com/articles/dataset/COMRADES_Crowdsourced_Informativeness_Datased_CCSID_/5787693
 * Hate Speech Dataset - https://github.com/Mainack/hatespeech-data-HT-2017
 * Estimating Ideological Positions with Twitter Data - https://github.com/pablobarbera/twitter_ideology
@@ -217,6 +211,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter Stance re-annotated with emotion - http://www.romanklinger.de/ssec/
 * Twitter Titling Corpus (stance towards presidents) - https://heidata.uni-heidelberg.de/dataset.xhtml?persistentId=doi:10.11588/data/IOHXDF
 * Stance and Gender Detection in Tweets on Catalan Independence@Ibereval 2017 - https://stel.ub.edu/Stance-IberEval2017/
+* Danish political stance dataset - https://figshare.com/articles/dataset/Danish_political_stance_dataset/12382592
+* Twitter data annotated with stance toward multipe targets - http://www.site.uottawa.ca/~diana/resources/
+* SemEval 2016 Task 6: Detecting Stance in Tweets - http://alt.qcri.org/semeval2016/task6/
+* Tweet stance detection - https://github.com/kennyjoseph/constance
 
 ### Tagging
 
@@ -295,6 +293,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Multimodal Entity Linking in Tweets - https://github.com/OA256864/MEL_Tweets
 * MobIE: A German Dataset for Named Entity Recognition, Entity Linking and Relation Extraction in the Mobility Domain - https://github.com/dfki-nlp/mobie
 * Twitter Multimodal Entity Linking using user mentions - https://github.com/seukgcode/MEL-GHMFC/tree/main/datasets/Twitter-MEL
+* Italian tweets Named Entity Linking - https://github.com/evalita2016/data
+* Entity Linking in Tweets for Book and Movie domain - https://github.com/sujanucsc/IEL-Twitter
 
 
 ### Machine Translation
