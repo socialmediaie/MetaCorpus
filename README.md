@@ -204,6 +204,18 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * SemEval-2018 task 3 - Irony detection in English tweets - https://competitions.codalab.org/competitions/17468 - Data Download - https://github.com/Cyvhee/SemEval2018-Task3
 * SemEval-2018 Task 1: Affect in Tweets (AIT-2018) - https://competitions.codalab.org/competitions/17751 - Data Download - http://saifmohammad.com/WebDocs/AIT-2018/AIT2018-DATA/SemEval2018-Task1-all-data.zip
 * SemEval 2022 - Task 6 (iSarcasmEval) : Intended Sarcasm Detection In English and Arabic - https://github.com/iabufarha/iSarcasmEval
+* Annotating Offensive Language Datasets with Annotators’ Disagreement - https://github.com/dhfbk/annotators-agreement-dataset
+* Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior - https://zenodo.org/record/3706866
+* Learning With Disagreements (Le-Wi-Di), 2nd edition - https://codalab.lisn.upsaclay.fr/competitions/6146
+* EmoThreat: Emotions & Threat Detection in Urdu - https://codalab.lisn.upsaclay.fr/competitions/5718 - https://sites.google.com/view/multi-label-emotionsfire-task/home
+* TempoWiC - Detecting Meaning Shift in Social Media - https://codalab.lisn.upsaclay.fr/competitions/5360
+* UMSAB, the Unified Multilingual Sentiment Analysis Benchmark - https://github.com/cardiffnlp/xlm-t#3---umsab-the-unified-multilingual-sentiment-analysis-benchmark
+* Shared Task on Threat, Aggression and Cyberbullying Identification (TRAC - 2022) - https://codalab.lisn.upsaclay.fr/competitions/4753#learn_the_details-overview
+* TRAC 2022 Shared Task on Bias, Threat and Aggression Identification in Context (BiTAg-Con) - https://codalab.lisn.upsaclay.fr/competitions/5792
+* SMM4H 2022 - Task 1 - ADE Mining in English Tweets - https://codalab.lisn.upsaclay.fr/competitions/2073
+* SMM4H 2022 - Task 9 Classification of social media forum posts self-reporting exact age - https://codalab.lisn.upsaclay.fr/competitions/3646
+* Fine-Grained Hate Speech Detection on Arabic Twitter - https://codalab.lisn.upsaclay.fr/competitions/2324 https://codalab.lisn.upsaclay.fr/competitions/2332 https://codalab.lisn.upsaclay.fr/competitions/2334
+
 
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
@@ -278,7 +290,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * MobIE: A German Dataset for Named Entity Recognition, Entity Linking and Relation Extraction in the Mobility Domain - https://github.com/dfki-nlp/mobie
 * DFKI Product Corpus - 174 English web pages and social media posts annotated for product and company named entities, and the relation CompanyProvidesProduct: https://github.com/DFKI-NLP/product-corpus
 * DFKI SmartData Corpus, a dataset of 2598 German-language documents which has been annotated with fine-grained geo-entities, such as streets, stops and routes, as well as standard named entity types - https://github.com/DFKI-NLP/smartdata-corpus
-		
+* SMM4H'2022, Task 10 - Detection of disease mentions in tweets–SocialDisNER - https://codalab.lisn.upsaclay.fr/competitions/3531
+
 ### Entity Linking	
 * 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
 * NEEL Microposts challenge - http://microposts2016.seas.upenn.edu/
@@ -296,6 +309,9 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Italian tweets Named Entity Linking - https://github.com/evalita2016/data
 * Entity Linking in Tweets for Book and Movie domain - https://github.com/sujanucsc/IEL-Twitter
 
+
+### Relation Extraction
+* REDIT - A relation extraction module for Tint - https://github.com/dhfbk/redit
 
 ### Machine Translation
 * TwitterMT - http://komunitatea.elhuyar.eus/tweetmt/resources/#Downloads
@@ -320,9 +336,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter Death Hoaxes dataset - https://figshare.com/articles/dataset/Twitter_Death_Hoaxes_dataset/5688811
 
 ### Fact Checking
-
 * On the Role of Images for Analyzing Claims in Social Media - https://zenodo.org/record/4592249
-* 
 
 
 ### Treebank and parsing	
@@ -427,6 +441,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Ekphrasis is a text processing tool - https://github.com/cbaziotis/ekphrasis
 * SocialMediaIE - https://github.com/socialmediaie/SocialMediaIE
 * TwitterNER - https://github.com/napsternxg/TwitterNER
+* TweetNLP - https://tweetnlp.org/
 
 ### Embeddings
 
@@ -434,6 +449,9 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Glove Word Embeddings - https://zenodo.org/record/3237458#.YEo-eZ1Kh3g
 * Monthly word embeddings for Twitter random sample (English, 2012-2018) - https://zenodo.org/record/3527983
 * Twitter Sent2Vec - https://github.com/epfml/sent2vec##downloading-pre-trained-models
+* TimeLMs: Diachronic Language Models from Twitter - https://github.com/cardiffnlp/timelms
+* Cross-lingual word embeddings from Twitter - https://github.com/pedrada88/crossembeddings-twitter
+* Tweet Word Embeddings - https://tweetnlp.org/resources/
 
 
 
@@ -472,6 +490,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Sentnob: Bengali Youtube Comments Sentiment Dataset - https://www.kaggle.com/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts
 * English YouTube Hate Speech Corpus - https://www.clarin.si/repository/xmlui/handle/11356/1454
 * Italian YouTube Hate Speech Corpus - https://www.clarin.si/repository/xmlui/handle/11356/1450
+* Sentiment Analysis and Homophobia detection of YouTube comments - https://codalab.lisn.upsaclay.fr/competitions/5310
 
 ### Videos
 
@@ -492,6 +511,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Reddit Wallstreetbets Support and Intent Annotated Dataset 2021 - https://zenodo.org/record/5851847#%23.YeO_vhPML8E
 * CL-Aff Shared Task: Get it #OffMyChest affective understanding of conversations - https://github.com/kj2013/claff-offmychest
 * Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions - https://github.com/LittlePea13/UsVsThem
+* CAD: the Contextual Abuse Dataset - https://zenodo.org/record/4881008
+
 
 ### Summarization
 
@@ -538,6 +559,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * ICWSM tutorial on collecting WhatsApp data - https://users.ics.aalto.fi/kiran/whatsapp-tutorial/
 * Tools for WhatsApp data collection - https://gvrkiran.github.io/whatsapp-tutorial/
 * WhatsApp group data: https://dataverse.mpi-sws.org/dataset.xhtml?persistentId=doi:10.5072/FK2/CS7U5P
+* Cyberbullying among Italian students - https://github.com/dhfbk/WhatsApp-Dataset
 
 ## Delicious 
 
@@ -590,6 +612,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 * SMS Noun Phrase Detection - https://github.com/statnlp-research/statnlp-datasets/blob/master/dataset/SMSNP_data.zip
 
+## Stormfront
+
+* Hate speech dataset - https://github.com/Vicomtech/hate-speech-dataset
+
 
 ## General
 
@@ -612,4 +638,4 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * The MeLa BitChute Dataset - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRD1VS
 * Effect of Popularity Shocks on User Behavior - https://zenodo.org/record/5854980#.YjgJAi8RoTs
 * SemEval-2022 Shared Task 10: Structured Sentiment Analysis - https://github.com/jerbarnes/semeval22_structured_sentiment
-
+* Dissecting harmful memes for Semantic role labelling of entities - https://codalab.lisn.upsaclay.fr/competitions/906#learn_the_details-evaluation
