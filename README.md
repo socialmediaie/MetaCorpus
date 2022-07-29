@@ -426,6 +426,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Ukraine and Russia Conflict Tweet IDs - https://github.com/echen102/ukraine-russia
 * NELA-GT-2021: A Large Multi-Labelled News Dataset for The Study of Misinformation in News Articles (contains tweets embedded in news articles) - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RBKVBM
 * Information Seeking in Academic Conferences - https://zenodo.org/record/819537
+* TimeLMs: Diachronic Language Models Evaluation for Tweets - https://github.com/cardiffnlp/timelms
 
 
 ### Tools, Tips, and Tricks
