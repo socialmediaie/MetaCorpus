@@ -215,6 +215,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * SMM4H 2022 - Task 1 - ADE Mining in English Tweets - https://codalab.lisn.upsaclay.fr/competitions/2073
 * SMM4H 2022 - Task 9 Classification of social media forum posts self-reporting exact age - https://codalab.lisn.upsaclay.fr/competitions/3646
 * Fine-Grained Hate Speech Detection on Arabic Twitter - https://codalab.lisn.upsaclay.fr/competitions/2324 https://codalab.lisn.upsaclay.fr/competitions/2332 https://codalab.lisn.upsaclay.fr/competitions/2334
+* NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis - https://zenodo.org/record/6538055
 
 
 ### Stance detection
@@ -427,6 +428,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * NELA-GT-2021: A Large Multi-Labelled News Dataset for The Study of Misinformation in News Articles (contains tweets embedded in news articles) - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RBKVBM
 * Information Seeking in Academic Conferences - https://zenodo.org/record/819537
 * TimeLMs: Diachronic Language Models Evaluation for Tweets - https://github.com/cardiffnlp/timelms
+* EvoNLP Shared Task: Temporal Meaning Shift - https://sites.google.com/view/evonlp/shared-task
+* Interactive Tagging Networks (Following/Followers and Tags on 1 million Twitter Users) - https://zenodo.org/record/16267
 
 
 ### Tools, Tips, and Tricks
@@ -616,6 +619,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 ## Stormfront
 
 * Hate speech dataset - https://github.com/Vicomtech/hate-speech-dataset
+
+## Meneame
+
+* Dataset of discussion threads from Meneame (Spanish) - https://zenodo.org/record/2536218
 
 
 ## General
