@@ -216,7 +216,16 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * SMM4H 2022 - Task 9 Classification of social media forum posts self-reporting exact age - https://codalab.lisn.upsaclay.fr/competitions/3646
 * Fine-Grained Hate Speech Detection on Arabic Twitter - https://codalab.lisn.upsaclay.fr/competitions/2324 https://codalab.lisn.upsaclay.fr/competitions/2332 https://codalab.lisn.upsaclay.fr/competitions/2334
 * NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis - https://zenodo.org/record/6538055
-
+* CHIME dataset: Identifying and Categorizing Disaster-Related Tweets	- https://github.com/Project-EPIC/chime-annotation
+* A Survey and Experiments on Annotated Corpora for Emotion Classification in Text - https://github.com/sarnthil/unify-emotion-datasets/tree/master/datasets
+* Stance Sentiment Emotion Corpus (SSEC): An annotation of the SemEval 2016 Twitter stance and sentiment corpus with emotion labels - https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/stanceemotion/
+* Hate Speech / Offensive Speech in the US 2020 Elections: Corpus for hate speech detection and stance detection - https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/stance-hof/
+* Visual Emotion Corpus: Visual Emotion Corpus - https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/visual-emotion-corpus/
+* DISARM: Detecting the Victims Targeted by Harmful Memes - https://github.com/Shiv681991/DISARM
+* Multimodal-Sarcasm-Explanation--MuSE - https://github.com/LCS2-IIITD/Multimodal-Sarcasm-Explanation-MuSE
+* Multilingual code-mixed datasets for classification - https://github.com/LCS2-IIITD/Code-mixed-classification/tree/main/data [Same version](https://github.com/LCS2-IIITD/HIT-ACL2021-Codemixed-Representation/tree/main/data)
+* Hinglish code-mixed hate detection - https://github.com/LCS2-IIITD/Hinglish_offense_detection-Neurocomputing2021
+* Hindi Ho​st​ile Posts in ​Regional L​anguages dur​ing Emerge​ncy Si​tuation - https://competitions.codalab.org/competitions/26654#learn_the_details-dataset
 
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
@@ -252,6 +261,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Entity Profiling in Microblog Posts (Aspect phrases and Opinion Targets) - http://nlp.uned.es/~damiano/datasets/entityProfiling_ORM_Twitter.html
 * Twitter Domain Adapted POS dataset - https://github.com/guitaowufeng/TPANN/tree/master/data
 * Clickbait spotting and spoling - https://webis.de/data/webis-clickbait-22.html https://webis.de/data/webis-clickbait-17.html https://webis.de/data/webis-clickbait-16.html
+* POS, NER, Semantic Role for disaster events - https://github.com/Project-EPIC/epic-annotation
+* BioClaim: Biomedical claims in tweets, BEAR: Biomedical Entities and Relations in Tweets, CoVERT: Fact-checking labels and evidence for tweets about Covid-19 - https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/bioclaim/
 
 #### NER datasets
 
@@ -338,6 +349,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 ### Fact Checking
 * On the Role of Images for Analyzing Claims in Social Media - https://zenodo.org/record/4592249
+* Covid 19 claim detection - https://github.com/LCS2-IIITD/LESA-EACL-2021
 
 
 ### Treebank and parsing	
@@ -380,6 +392,9 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Capitalizing on a TREC Track to Build a Tweet Summarization Dataset - https://github.com/AlexisDusart/SetSummTweet
 * TES 2012-2016 tweet summary using Wikipedia Current Event portal - https://github.com/AlexisDusart/TSSuBERT/tree/main/TES%202012-2016
 * Twitter event datasets (2012-2016, 30 events) - https://figshare.com/articles/dataset/Twitter_event_datasets_2012-2016_/5100460
+
+### Bot Detection
+* [TwiBot-22: Towards Graph-Based Twitter Bot Detection](https://twibot22.github.io/)- https://github.com/LuoUndergradXJTU/TwiBot-22
 
 
 ### General
@@ -430,6 +445,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * TimeLMs: Diachronic Language Models Evaluation for Tweets - https://github.com/cardiffnlp/timelms
 * EvoNLP Shared Task: Temporal Meaning Shift - https://sites.google.com/view/evonlp/shared-task
 * Interactive Tagging Networks (Following/Followers and Tags on 1 million Twitter Users) - https://zenodo.org/record/16267
+* User Movement Analysis - https://github.com/Project-EPIC/Twitter-Movement-Derivation/tree/master/All-Coded-Data
 
 
 ### Tools, Tips, and Tricks
@@ -516,6 +532,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * CL-Aff Shared Task: Get it #OffMyChest affective understanding of conversations - https://github.com/kj2013/claff-offmychest
 * Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions - https://github.com/LittlePea13/UsVsThem
 * CAD: the Contextual Abuse Dataset - https://zenodo.org/record/4881008
+* MMEmo Corpus: Multi-Modal Emotion Recognition Corpus of Reddit Posts - https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/mmemo/
+* Reddit News Chatter Intensity - https://github.com/LCS2-IIITD/ChatterNet
 
 
 ### Summarization
@@ -647,3 +665,5 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Effect of Popularity Shocks on User Behavior - https://zenodo.org/record/5854980#.YjgJAi8RoTs
 * SemEval-2022 Shared Task 10: Structured Sentiment Analysis - https://github.com/jerbarnes/semeval22_structured_sentiment
 * Dissecting harmful memes for Semantic role labelling of entities - https://codalab.lisn.upsaclay.fr/competitions/906#learn_the_details-evaluation
+* Resources for Emotion Analysis: A collection of ressources created at IMS related to emotion and sentiment analysis - https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/emotion/
+* MHA-Meme-Leveraging-Sentence-Demarcations-and-Multi-hop-Attention-for-Meme-Affect-Analysis - https://github.com/LCS2-IIITD/MHA-MEME
