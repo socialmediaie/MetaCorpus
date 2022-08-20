@@ -623,6 +623,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Multilingual EN, JA, ZH Covid Weibo data - https://github.com/sociocom/covid19_dataset
 * Social Media Keyphrase Generation - https://github.com/yuewang-cuhk/TAKG
 * MELBench - Multimudal Entity Linking - https://github.com/seukgcode/MELBench
+* Russia Ukraine Crisis Weibo (RUW) Dataset - https://github.com/yrf1/RussiaUkraine_weibo_dataset
 
 ## Whisper
 
