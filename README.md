@@ -320,6 +320,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter Multimodal Entity Linking using user mentions - https://github.com/seukgcode/MEL-GHMFC/tree/main/datasets/Twitter-MEL
 * Italian tweets Named Entity Linking - https://github.com/evalita2016/data
 * Entity Linking in Tweets for Book and Movie domain - https://github.com/sujanucsc/IEL-Twitter
+* Implicit-Entity-Linking-in-Tweets-Resources-and-Dataset (fine-grained NER and implicit and explicit entities, 7.5K tweets) - https://github.com/HawreH/Implicit-Entity-Recognition-and-Linking-in-Tweets-Resources-and-Dataset/tree/master/Dataset
+* Implicit Entity Linking in Tweets (600 tweets) - https://github.com/sujanucsc/IEL-Twitter
 
 
 ### Relation Extraction
