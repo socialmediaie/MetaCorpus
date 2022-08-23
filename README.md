@@ -226,6 +226,13 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Multilingual code-mixed datasets for classification - https://github.com/LCS2-IIITD/Code-mixed-classification/tree/main/data [Same version](https://github.com/LCS2-IIITD/HIT-ACL2021-Codemixed-Representation/tree/main/data)
 * Hinglish code-mixed hate detection - https://github.com/LCS2-IIITD/Hinglish_offense_detection-Neurocomputing2021
 * Hindi Ho​st​ile Posts in ​Regional L​anguages dur​ing Emerge​ncy Si​tuation - https://competitions.codalab.org/competitions/26654#learn_the_details-dataset
+* HSpam14 Dataset (14M tweets tagged for spam or not using various techniques) - https://personal.ntu.edu.sg/axsun/datasets.html
+* Automatic Misogyny Identification (AMI) - https://amievalita2020.github.io/data/
+* 2nd Hate Speech Detection Task at Evalita 2020 - https://github.com/msang/haspeede
+* IronITA (Irony Detection in Italian Tweets) - http://www.di.unito.it/~tutreeb/ironita-evalita18
+
+
+
 
 ### Stance detection
 * Stance in Replies and Quotes (SRQ): A New Dataset For Learning Stance in Twitter Conversations - https://zenodo.org/record/3609277#.XyNbovhKidY
@@ -237,6 +244,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter data annotated with stance toward multipe targets - http://www.site.uottawa.ca/~diana/resources/
 * SemEval 2016 Task 6: Detecting Stance in Tweets - http://alt.qcri.org/semeval2016/task6/
 * Tweet stance detection - https://github.com/kennyjoseph/constance
+* SardiStance at EVALITA 2020 - https://github.com/mirkolai/evalita-sardistance
+
 
 ### Tagging
 
@@ -500,6 +509,12 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Sinhala FB Decade Corpora https://github.com/LIRNEasia/FacebookDecadeCorpora
 
 
+## Instagram
+
+### Multimodal Tasks
+* DankMemes 2020 - https://github.com/gianlucalebani/dankmemes2020
+
+
 ## Youtube:
 
 ### Classification
@@ -572,6 +587,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 ### Amazon	
 * Irony and sarcasm in reviews - https://github.com/ef2020/SarcasmAmazonReviewsCorpus/wiki	
+
+
+### eCommerce website in Italy
+* Aspect Term Extraction and Aspect-based Sentiment Analysis Task - http://www.di.uniba.it/~swap/ate_absita/dataset.html
 
 
 ## About.me
