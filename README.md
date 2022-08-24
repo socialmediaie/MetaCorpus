@@ -230,6 +230,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Automatic Misogyny Identification (AMI) - https://amievalita2020.github.io/data/
 * 2nd Hate Speech Detection Task at Evalita 2020 - https://github.com/msang/haspeede
 * IronITA (Irony Detection in Italian Tweets) - http://www.di.unito.it/~tutreeb/ironita-evalita18
+* Offensive language dataset of Croatian, English and Slovenian comments FRENK 1.1 - https://www.clarin.si/repository/xmlui/handle/11356/1462
+* 
 
 
 
@@ -272,6 +274,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Clickbait spotting and spoling - https://webis.de/data/webis-clickbait-22.html https://webis.de/data/webis-clickbait-17.html https://webis.de/data/webis-clickbait-16.html
 * POS, NER, Semantic Role for disaster events - https://github.com/Project-EPIC/epic-annotation
 * BioClaim: Biomedical claims in tweets, BEAR: Biomedical Entities and Relations in Tweets, CoVERT: Fact-checking labels and evidence for tweets about Covid-19 - https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/bioclaim/
+* Serbian Twitter training corpus ReLDI-NormTagNER-sr 2.1 - https://www.clarin.si/repository/xmlui/handle/11356/1240
 
 #### NER datasets
 
@@ -631,7 +634,9 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
  - https://github.com/julian-risch/CIKM2020/
 * User Engagement in Online Discussions - https://github.com/julian-risch/ICWSM2020
 * Top Comment or Flop Comment? Predicting and Explaining User Engagement in Online News Discussions - https://github.com/julian-risch/ICWSM2020
-
+* SFU Opinion and Comments Corpus - https://github.com/sfu-discourse-lab/SOCC
+* FRENK-MMC-RTV Slavic news comments moderated by platform - https://www.clarin.si/repository/xmlui/handle/11356/1201 [Paper](https://aclanthology.org/W18-5116/)
+* FRENK-STYRIA-24sata 1.0 Croatian news comments moderated by platform - https://www.clarin.si/repository/xmlui/handle/11356/1202 [Paper](https://aclanthology.org/W18-5116/)
 
 ## Weibo
 
@@ -689,3 +694,5 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Dissecting harmful memes for Semantic role labelling of entities - https://codalab.lisn.upsaclay.fr/competitions/906#learn_the_details-evaluation
 * Resources for Emotion Analysis: A collection of ressources created at IMS related to emotion and sentiment analysis - https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/emotion/
 * MHA-Meme-Leveraging-Sentence-Demarcations-and-Multi-hop-Attention-for-Meme-Affect-Analysis - https://github.com/LCS2-IIITD/MHA-MEME
+* Misinfo text datasets - https://github.com/sfu-discourse-lab/MisInfoText
+* Wikipedia Talk: A collection of data sets on Wikipedia Talk page discussions - https://figshare.com/projects/Wikipedia_Talk/16731
