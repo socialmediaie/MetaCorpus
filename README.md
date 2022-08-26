@@ -231,7 +231,6 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * 2nd Hate Speech Detection Task at Evalita 2020 - https://github.com/msang/haspeede
 * IronITA (Irony Detection in Italian Tweets) - http://www.di.unito.it/~tutreeb/ironita-evalita18
 * Offensive language dataset of Croatian, English and Slovenian comments FRENK 1.1 - https://www.clarin.si/repository/xmlui/handle/11356/1462
-* 
 
 
 
@@ -315,6 +314,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * DFKI Product Corpus - 174 English web pages and social media posts annotated for product and company named entities, and the relation CompanyProvidesProduct: https://github.com/DFKI-NLP/product-corpus
 * DFKI SmartData Corpus, a dataset of 2598 German-language documents which has been annotated with fine-grained geo-entities, such as streets, stops and routes, as well as standard named entity types - https://github.com/DFKI-NLP/smartdata-corpus
 * SMM4H'2022, Task 10 - Detection of disease mentions in tweets–SocialDisNER - https://codalab.lisn.upsaclay.fr/competitions/3531
+* METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets - https://github.com/YLab-Open/METS-CoV
 
 ### Entity Linking	
 * 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
@@ -650,6 +650,11 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Social Media Keyphrase Generation - https://github.com/yuewang-cuhk/TAKG
 * MELBench - Multimudal Entity Linking - https://github.com/seukgcode/MELBench
 * Russia Ukraine Crisis Weibo (RUW) Dataset - https://github.com/yrf1/RussiaUkraine_weibo_dataset
+
+
+## TikTok 
+
+* MVIndEmo: A Dataset for Micro-video Public Induced Emotion Prediction on Social Media - https://github.com/inspur-hsslab/NeurIPS-Dataset-Induced-Emotion
 
 ## Whisper
 
