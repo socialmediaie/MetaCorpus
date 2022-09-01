@@ -410,6 +410,12 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 ### Bot Detection
 * [TwiBot-22: Towards Graph-Based Twitter Bot Detection](https://twibot22.github.io/)- https://github.com/LuoUndergradXJTU/TwiBot-22
 
+### RecSys
+* Cross-Domain Rating Datasets from Structured Data on Twitter - https://github.com/sidooms/Twitter-ratings
+* A Movie Rating Dataset Collected From Twitter - https://github.com/sidooms/MovieTweetings
+* Twitter RecSys Challenge 2020 - http://www.recsyschallenge.com/2020/
+* Twitter RecSys Challenge 2021 - https://www.recsyschallenge.com/2021/
+
 
 ### General
 
