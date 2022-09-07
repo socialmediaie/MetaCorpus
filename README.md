@@ -482,6 +482,9 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * SocialMediaIE - https://github.com/socialmediaie/SocialMediaIE
 * TwitterNER - https://github.com/napsternxg/TwitterNER
 * TweetNLP - https://tweetnlp.org/
+* StoryWrangler: ngrams trends in Tweets - https://storywrangling.org/about [Code](https://gitlab.com/compstorylab/storywrangler)
+* Contagiograms: language specific retweet frequency - https://gitlab.com/compstorylab/contagiograms
+* Happy Words from Hedonometer - https://hedonometer.org/words/labMT-en-v2/
 
 ### Embeddings
 
