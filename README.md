@@ -231,7 +231,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * 2nd Hate Speech Detection Task at Evalita 2020 - https://github.com/msang/haspeede
 * IronITA (Irony Detection in Italian Tweets) - http://www.di.unito.it/~tutreeb/ironita-evalita18
 * Offensive language dataset of Croatian, English and Slovenian comments FRENK 1.1 - https://www.clarin.si/repository/xmlui/handle/11356/1462
-
+* Extraction of Informative COVID-19 Danish Tweets - https://github.com/beaol/Finding-the-needle-in-a-haystack-Extraction-of-Informative-COVID-19-Danish-Tweets
 
 
 
