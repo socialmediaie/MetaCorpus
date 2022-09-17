@@ -563,7 +563,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * CAD: the Contextual Abuse Dataset - https://zenodo.org/record/4881008
 * MMEmo Corpus: Multi-Modal Emotion Recognition Corpus of Reddit Posts - https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/mmemo/
 * Reddit News Chatter Intensity - https://github.com/LCS2-IIITD/ChatterNet
-
+* DEBAGREEMENT: A comment-reply dataset for (dis)agreement detection in online debates - https://scale.com/open-av-datasets/oxford
 
 ### Summarization
 
