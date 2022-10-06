@@ -315,6 +315,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * DFKI SmartData Corpus, a dataset of 2598 German-language documents which has been annotated with fine-grained geo-entities, such as streets, stops and routes, as well as standard named entity types - https://github.com/DFKI-NLP/smartdata-corpus
 * SMM4H'2022, Task 10 - Detection of disease mentions in tweets–SocialDisNER - https://codalab.lisn.upsaclay.fr/competitions/3531
 * METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets - https://github.com/YLab-Open/METS-CoV
+* TweetBank-NER - https://github.com/mit-ccc/TweebankNLP
 
 ### Entity Linking	
 * 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
@@ -486,6 +487,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Contagiograms: language specific retweet frequency - https://gitlab.com/compstorylab/contagiograms
 * Happy Words from Hedonometer - https://hedonometer.org/words/labMT-en-v2/
 * Twitter-Text Official Library for Parsing Tweets - https://github.com/twitter/twitter-text
+* Twitter-Stanza - https://github.com/mit-ccc/TweebankNLP
 
 ### Embeddings
 
