@@ -274,6 +274,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * POS, NER, Semantic Role for disaster events - https://github.com/Project-EPIC/epic-annotation
 * BioClaim: Biomedical claims in tweets, BEAR: Biomedical Entities and Relations in Tweets, CoVERT: Fact-checking labels and evidence for tweets about Covid-19 - https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/bioclaim/
 * Serbian Twitter training corpus ReLDI-NormTagNER-sr 2.1 - https://www.clarin.si/repository/xmlui/handle/11356/1240
+* CURT: Fact Check Claim Spans on Tweets - https://github.com/LCS2-IIITD/DABERTA-EMNLP-2022
 
 #### NER datasets
 
