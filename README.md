@@ -278,6 +278,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Serbian Twitter training corpus ReLDI-NormTagNER-sr 2.1 - https://www.clarin.si/repository/xmlui/handle/11356/1240
 * CURT: Fact Check Claim Spans on Tweets - https://github.com/LCS2-IIITD/DABERTA-EMNLP-2022
 * TweetNERD - End to End Entity Linking Benchmark for Tweets - https://zenodo.org/record/6617192
+* TempoWiC - An Evaluation Benchmark for Detecting Meaning Shift in Social Media - https://github.com/cardiffnlp/TempoWiC
 
 #### NER datasets
 
