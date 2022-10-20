@@ -232,6 +232,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * IronITA (Irony Detection in Italian Tweets) - http://www.di.unito.it/~tutreeb/ironita-evalita18
 * Offensive language dataset of Croatian, English and Slovenian comments FRENK 1.1 - https://www.clarin.si/repository/xmlui/handle/11356/1462
 * Extraction of Informative COVID-19 Danish Tweets - https://github.com/beaol/Finding-the-needle-in-a-haystack-Extraction-of-Informative-COVID-19-Danish-Tweets
+* Tweet Topic Single Label - https://huggingface.co/datasets/cardiffnlp/tweet_topic_single
+* Tweet Topic Multi Label - 
 
 
 
@@ -275,6 +277,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * BioClaim: Biomedical claims in tweets, BEAR: Biomedical Entities and Relations in Tweets, CoVERT: Fact-checking labels and evidence for tweets about Covid-19 - https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/bioclaim/
 * Serbian Twitter training corpus ReLDI-NormTagNER-sr 2.1 - https://www.clarin.si/repository/xmlui/handle/11356/1240
 * CURT: Fact Check Claim Spans on Tweets - https://github.com/LCS2-IIITD/DABERTA-EMNLP-2022
+* TweetNERD - End to End Entity Linking Benchmark for Tweets - https://zenodo.org/record/6617192
 
 #### NER datasets
 
@@ -317,6 +320,9 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * SMM4H'2022, Task 10 - Detection of disease mentions in tweets–SocialDisNER - https://codalab.lisn.upsaclay.fr/competitions/3531
 * METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets - https://github.com/YLab-Open/METS-CoV
 * TweetBank-NER - https://github.com/mit-ccc/TweebankNLP
+* TweetNER7 - https://huggingface.co/datasets/tner/tweetner7
+* TweetNERD - End to End Entity Linking Benchmark for Tweets - https://zenodo.org/record/6617192
+
 
 ### Entity Linking	
 * 282 langauge entity linking data based on Wikipedia - http://nlp.cs.rpi.edu/wikiann/	
@@ -336,6 +342,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Entity Linking in Tweets for Book and Movie domain - https://github.com/sujanucsc/IEL-Twitter
 * Implicit-Entity-Linking-in-Tweets-Resources-and-Dataset (fine-grained NER and implicit and explicit entities, 7.5K tweets) - https://github.com/HawreH/Implicit-Entity-Recognition-and-Linking-in-Tweets-Resources-and-Dataset/tree/master/Dataset
 * Implicit Entity Linking in Tweets (600 tweets) - https://github.com/sujanucsc/IEL-Twitter
+* TweetNERD - End to End Entity Linking Benchmark for Tweets - https://zenodo.org/record/6617192
 
 
 ### Relation Extraction
