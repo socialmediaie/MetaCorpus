@@ -233,7 +233,8 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Offensive language dataset of Croatian, English and Slovenian comments FRENK 1.1 - https://www.clarin.si/repository/xmlui/handle/11356/1462
 * Extraction of Informative COVID-19 Danish Tweets - https://github.com/beaol/Finding-the-needle-in-a-haystack-Extraction-of-Informative-COVID-19-Danish-Tweets
 * Tweet Topic Single Label - https://huggingface.co/datasets/cardiffnlp/tweet_topic_single
-* Tweet Topic Multi Label - 
+* Tweet Topic Multi Label - https://huggingface.co/datasets/cardiffnlp/tweet_topic_multi
+* AfriSenti-SemEval Shared Task 12 - https://afrisenti-semeval.github.io/#starter-kit
 
 
 
