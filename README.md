@@ -698,6 +698,13 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 * Dataset of discussion threads from Meneame (Spanish) - https://zenodo.org/record/2536218
 
+## ShareChat
+
+* Multilingual Abusive Comment Detection at Scale for Indic Languages - https://github.com/ShareChatAI/MACD
+* Multilingual and Multimodal Abuse Detection - https://github.com/ShareChatAI/MADA
+* 3MASSIV: Multilingual, Multimodal and Multi-Aspect dataset of Social Media Short Videos - https://github.com/ShareChatAI/3MASSIV
+* ADIMA: ABUSE DETECTION IN MULTILINGUAL AUDIO - https://github.com/ShareChatAI/ADIMA
+
 
 ## General
 
