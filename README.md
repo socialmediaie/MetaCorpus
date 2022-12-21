@@ -499,6 +499,9 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Happy Words from Hedonometer - https://hedonometer.org/words/labMT-en-v2/
 * Twitter-Text Official Library for Parsing Tweets - https://github.com/twitter/twitter-text
 * Twitter-Stanza - https://github.com/mit-ccc/TweebankNLP
+* DMRC Academic Twitter Archive Collector - https://github.com/qut-dmrc/DMRC_Academic_Twitter_Archive_Collector
+
+
 
 ### Embeddings
 
