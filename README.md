@@ -59,6 +59,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 
 
 ### Classification
+* Science-related speech detection (CIKM2022) - [Dataset/Model](https://github.com/AI-4-Sci/SciTweets), [Paper](https://arxiv.org/pdf/2206.07360.pdf)
 * Hate and abusive speech - https://github.com/ENCASEH2020/hatespeech-twitter
 * HateEval (SemEval 2019) - https://github.com/cicl2018/HateEvalTeam
 * Aggregation identification - https://github.com/SilentFlame/AggressionDetection
