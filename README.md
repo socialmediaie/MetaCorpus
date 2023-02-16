@@ -683,6 +683,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 ## TikTok 
 
 * MVIndEmo: A Dataset for Micro-video Public Induced Emotion Prediction on Social Media - https://github.com/inspur-hsslab/NeurIPS-Dataset-Induced-Emotion
+* Pyktok: A simple module to collect video, text, and metadata from TikTok - https://github.com/dfreelon/pyktok
 
 ## Whisper
 
