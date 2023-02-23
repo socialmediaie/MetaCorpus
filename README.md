@@ -737,3 +737,4 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * MHA-Meme-Leveraging-Sentence-Demarcations-and-Multi-hop-Attention-for-Meme-Affect-Analysis - https://github.com/LCS2-IIITD/MHA-MEME
 * Misinfo text datasets - https://github.com/sfu-discourse-lab/MisInfoText
 * Wikipedia Talk: A collection of data sets on Wikipedia Talk page discussions - https://figshare.com/projects/Wikipedia_Talk/16731
+* The Misinformation Game: a social-media simulator - https://misinfogame.com/
