@@ -236,6 +236,9 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Tweet Topic Single Label - https://huggingface.co/datasets/cardiffnlp/tweet_topic_single
 * Tweet Topic Multi Label - https://huggingface.co/datasets/cardiffnlp/tweet_topic_multi
 * AfriSenti-SemEval Shared Task 12 - https://afrisenti-semeval.github.io/#starter-kit
+* Customer Support on Twitter - https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter
+* NusaX - Multilingual parallel corpus for sentiment analysis https://github.com/IndoNLP/nusax
+* CrisisFACTS is an open data challenge for state-of-the-art temporal summarization technologies to support disaster-response managers' use of online data sources during crisis events - https://crisisfacts.github.io
 
 
 
@@ -376,6 +379,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 ### Fact Checking
 * On the Role of Images for Analyzing Claims in Social Media - https://zenodo.org/record/4592249
 * Covid 19 claim detection - https://github.com/LCS2-IIITD/LESA-EACL-2021
+* Evaluation of Approaches for the Clickbait Challenge at SemEval 2023 - Clickbait Spoiling - https://github.com/pan-webis-de/pan-code/tree/master/semeval23
 
 
 ### Treebank and parsing	
@@ -537,6 +541,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * FB News Page and Posts - https://bigquery.cloud.google.com/dataset/jbencina-144002:fb_news and https://github.com/jbencina/facebook-news/
 * MultiEmotion-It - Italian Multiemotion corpus - https://github.com/RacheleSprugnoli/Esercitazioni_SA/tree/master/dataset
 * Sinhala FB Decade Corpora https://github.com/LIRNEasia/FacebookDecadeCorpora
+* Saved You a Click dataset - https://github.com/janetzhong/Saved-You-A-Click-CS224N/tree/main/data
+
+### General
+* Personal Timeline tool - https://github.com/facebookresearch/personal-timeline
 
 
 ## Instagram
@@ -583,6 +591,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Reddit News Chatter Intensity - https://github.com/LCS2-IIITD/ChatterNet
 * DEBAGREEMENT: A comment-reply dataset for (dis)agreement detection in online debates - https://scale.com/open-av-datasets/oxford
 * Author Topic Style Embeddings - https://github.com/nlpsoc/Style-Embeddings
+* UnifiedQA Reddit SYAC (Saved you a click) - https://huggingface.co/marksverdhei/unifiedqa-large-reddit-syac - https://github.com/marksverdhei/reddit-syac
 
 ### Summarization
 
