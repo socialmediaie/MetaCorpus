@@ -434,6 +434,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Twitter RecSys Challenge 2021 - https://www.recsyschallenge.com/2021/
 
 
+### Multi-Task
+
+* SuperTweetEval: a unified benchmark of 12 heterogeneous NLP tasks - https://huggingface.co/datasets/cardiffnlp/super_tweeteval
+
 ### General
 
 * SocialLink is a publicly-available Linked Open Data dataset that matches social media accounts on Twitter to the corresponding entities in multiple language chapters of DBpedia - https://springernature.figshare.com/articles/dataset/ - [Github](https://github.com/Remper/sociallink)SocialLink_knowledge_transfer_between_social_media_and_linked_open_data/5235823/1
