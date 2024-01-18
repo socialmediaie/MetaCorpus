@@ -724,6 +724,10 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * ADIMA: ABUSE DETECTION IN MULTILINGUAL AUDIO - https://github.com/ShareChatAI/ADIMA
 
 
+## Koo App
+
+* The Koo Dataset: An Indian Microblogging Platform With Global Ambitions (400m+ user interactions and 1.4m user profiles) - https://zenodo.org/records/10476212
+
 ## General
 
 * Pheme project: https://www.pheme.eu/software-downloads/
