@@ -239,7 +239,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 * Customer Support on Twitter - https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter
 * NusaX - Multilingual parallel corpus for sentiment analysis https://github.com/IndoNLP/nusax
 * CrisisFACTS is an open data challenge for state-of-the-art temporal summarization technologies to support disaster-response managers' use of online data sources during crisis events - https://crisisfacts.github.io
-
+* ReactionGIF is a unique, first-of-its-kind dataset of 30K tweets and their GIF reactions - https://github.com/bshmueli/ReactionGIF
 
 
 ### Stance detection
