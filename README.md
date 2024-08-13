@@ -579,6 +579,7 @@ A meta corpus of social media corpus. Part of the [SocialMediaIE Project](http:/
 ### General
 
 * Trending YouTube Video Statistics [multi-country] - https://www.kaggle.com/datasnaek/youtube-new
+* [SponsorBlock](https://sponsor.ajay.app/) - SponsorBlock is an open-source crowdsourced browser extension and open API for skipping sponsor segments in YouTube videos - [Database](https://sponsor.ajay.app/database)
 
 ## Reddit
 
